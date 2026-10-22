@@ -1,0 +1,5075 @@
+{
+  "version": "themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865",
+  "themes": [
+    {
+      "id": "halloween-jack-o-lantern",
+      "name": "Jack-o’-Lantern",
+      "version": "themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865",
+      "preview": {
+        "id": "halloween-jack-o-lantern",
+        "name": "Jack-o’-Lantern",
+        "source": "eventsRepository",
+        "isDark": false,
+        "background": {
+          "r": 0.94509804,
+          "g": 0.8745098,
+          "b": 0.76470588,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 1.0,
+          "g": 0.91372549,
+          "b": 0.78039216,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.34901961,
+          "g": 0.18823529,
+          "b": 0.09411765,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.84705882,
+          "g": 0.54117647,
+          "b": 0.2627451,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.26666667,
+          "g": 0.13333333,
+          "b": 0.05098039,
+          "a": 1
+        },
+        "suggestionText": {
+          "r": 0.34901961,
+          "g": 0.18823529,
+          "b": 0.09411765,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.65882353,
+          "g": 0.2627451,
+          "b": 0.07058824,
+          "a": 1
+        },
+        "material": "3d",
+        "threeDVariant": "mechanical",
+        "keySurfaceMaterial": "grain",
+        "liquidGlass": false,
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyCapShape": "rect",
+        "grainDensity": 0.65,
+        "grainSize": 0.5,
+        "grainStrength": 0.035,
+        "glossStrength": 0.55,
+        "glossSpread": 0.32,
+        "mechanicalFaceInset": 2.4,
+        "mechanicalInnerRadius": 6,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "bevelDepth": 2.2,
+        "bevelLightAngle": 315,
+        "neumorphicDepth": 2,
+        "neumorphicSoftness": 4,
+        "neumorphicStrength": 0.55,
+        "neowriterRimWidth": 1.2,
+        "neowriterRingWidth": 0.6,
+        "neowriterRingInset": 1.2,
+        "neowriterDepth": 2,
+        "neowriterSoftness": 1.5,
+        "neowriterRimColor": {
+          "r": 0.51372549,
+          "g": 0.58039216,
+          "b": 0.41960784,
+          "a": 1
+        },
+        "neowriterRingColor": {
+          "r": 0.65882353,
+          "g": 0.2627451,
+          "b": 0.07058824,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 135,
+          "stops": [
+            {
+              "position": 0,
+              "color": {
+                "r": 0.94509804,
+                "g": 0.8745098,
+                "b": 0.76470588,
+                "a": 1
+              }
+            },
+            {
+              "position": 1,
+              "color": {
+                "r": 0.85882353,
+                "g": 0.67843137,
+                "b": 0.47843137,
+                "a": 1
+              }
+            }
+          ]
+        },
+        "groupPaint": {
+          "letters": {
+            "cornerRadius": 8
+          },
+          "numbers": {
+            "cornerRadius": 8
+          },
+          "punctuation": {
+            "cornerRadius": 8
+          },
+          "modifiers": {
+            "fill": {
+              "r": 0.84705882,
+              "g": 0.54117647,
+              "b": 0.2627451,
+              "a": 1
+            },
+            "text": {
+              "r": 0.26666667,
+              "g": 0.13333333,
+              "b": 0.05098039,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.65882353,
+              "g": 0.2627451,
+              "b": 0.07058824,
+              "a": 1
+            },
+            "activeText": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.8745098,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.84705882,
+              "g": 0.54117647,
+              "b": 0.2627451,
+              "a": 1
+            },
+            "cornerRadius": 8
+          },
+          "return": {
+            "fill": {
+              "r": 0.65882353,
+              "g": 0.2627451,
+              "b": 0.07058824,
+              "a": 1
+            },
+            "text": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.8745098,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.65882353,
+              "g": 0.2627451,
+              "b": 0.07058824,
+              "a": 1
+            },
+            "activeText": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.8745098,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.65882353,
+              "g": 0.2627451,
+              "b": 0.07058824,
+              "a": 1
+            },
+            "cornerRadius": 8
+          },
+          "space": {
+            "fill": {
+              "r": 0.51372549,
+              "g": 0.58039216,
+              "b": 0.41960784,
+              "a": 1
+            },
+            "text": {
+              "r": 0.10588235,
+              "g": 0.15294118,
+              "b": 0.08235294,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.51372549,
+              "g": 0.58039216,
+              "b": 0.41960784,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.10588235,
+              "g": 0.15294118,
+              "b": 0.08235294,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.51372549,
+              "g": 0.58039216,
+              "b": 0.41960784,
+              "a": 1
+            },
+            "cornerRadius": 8
+          },
+          "backspace": {
+            "fill": {
+              "r": 0.84705882,
+              "g": 0.54117647,
+              "b": 0.2627451,
+              "a": 1
+            },
+            "text": {
+              "r": 0.26666667,
+              "g": 0.13333333,
+              "b": 0.05098039,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.84705882,
+              "g": 0.54117647,
+              "b": 0.2627451,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.26666667,
+              "g": 0.13333333,
+              "b": 0.05098039,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.65882353,
+              "g": 0.2627451,
+              "b": 0.07058824,
+              "a": 1
+            },
+            "cornerRadius": 8
+          }
+        },
+        "backgroundEffect": {
+          "style": "embers",
+          "speed": 0.35,
+          "intensity": 0.12,
+          "density": 0.22,
+          "scale": 0.7,
+          "reactive": true,
+          "reactionStrength": 0.35,
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "r": 0.65882353,
+            "g": 0.2627451,
+            "b": 0.07058824,
+            "a": 1
+          },
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.51372549,
+            "g": 0.58039216,
+            "b": 0.41960784,
+            "a": 1
+          }
+        },
+        "pairedVariants": [
+          {
+            "id": "halloween-jack-o-lantern",
+            "name": "Jack-o’-Lantern",
+            "source": "eventsRepository",
+            "isDark": false,
+            "background": {
+              "r": 0.94509804,
+              "g": 0.8745098,
+              "b": 0.76470588,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 1.0,
+              "g": 0.91372549,
+              "b": 0.78039216,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.34901961,
+              "g": 0.18823529,
+              "b": 0.09411765,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.84705882,
+              "g": 0.54117647,
+              "b": 0.2627451,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.26666667,
+              "g": 0.13333333,
+              "b": 0.05098039,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.34901961,
+              "g": 0.18823529,
+              "b": 0.09411765,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.65882353,
+              "g": 0.2627451,
+              "b": 0.07058824,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "mechanical",
+            "keySurfaceMaterial": "grain",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 6,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.51372549,
+              "g": 0.58039216,
+              "b": 0.41960784,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.65882353,
+              "g": 0.2627451,
+              "b": 0.07058824,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.94509804,
+                    "g": 0.8745098,
+                    "b": 0.76470588,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.85882353,
+                    "g": 0.67843137,
+                    "b": 0.47843137,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 8
+              },
+              "numbers": {
+                "cornerRadius": 8
+              },
+              "punctuation": {
+                "cornerRadius": 8
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.84705882,
+                  "g": 0.54117647,
+                  "b": 0.2627451,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.26666667,
+                  "g": 0.13333333,
+                  "b": 0.05098039,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.65882353,
+                  "g": 0.2627451,
+                  "b": 0.07058824,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.8745098,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.84705882,
+                  "g": 0.54117647,
+                  "b": 0.2627451,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              },
+              "return": {
+                "fill": {
+                  "r": 0.65882353,
+                  "g": 0.2627451,
+                  "b": 0.07058824,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.8745098,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.65882353,
+                  "g": 0.2627451,
+                  "b": 0.07058824,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.8745098,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.65882353,
+                  "g": 0.2627451,
+                  "b": 0.07058824,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              },
+              "space": {
+                "fill": {
+                  "r": 0.51372549,
+                  "g": 0.58039216,
+                  "b": 0.41960784,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.10588235,
+                  "g": 0.15294118,
+                  "b": 0.08235294,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.51372549,
+                  "g": 0.58039216,
+                  "b": 0.41960784,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.10588235,
+                  "g": 0.15294118,
+                  "b": 0.08235294,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.51372549,
+                  "g": 0.58039216,
+                  "b": 0.41960784,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.84705882,
+                  "g": 0.54117647,
+                  "b": 0.2627451,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.26666667,
+                  "g": 0.13333333,
+                  "b": 0.05098039,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.84705882,
+                  "g": 0.54117647,
+                  "b": 0.2627451,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.26666667,
+                  "g": 0.13333333,
+                  "b": 0.05098039,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.65882353,
+                  "g": 0.2627451,
+                  "b": 0.07058824,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              }
+            },
+            "backgroundEffect": {
+              "style": "embers",
+              "speed": 0.35,
+              "intensity": 0.12,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.65882353,
+                "g": 0.2627451,
+                "b": 0.07058824,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.51372549,
+                "g": 0.58039216,
+                "b": 0.41960784,
+                "a": 1
+              }
+            }
+          },
+          {
+            "id": "halloween-jack-o-lantern",
+            "name": "Jack-o’-Lantern",
+            "source": "eventsRepository",
+            "isDark": true,
+            "background": {
+              "r": 0.09803922,
+              "g": 0.0745098,
+              "b": 0.05882353,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.2627451,
+              "g": 0.18823529,
+              "b": 0.14901961,
+              "a": 1
+            },
+            "keyText": {
+              "r": 1.0,
+              "g": 0.83137255,
+              "b": 0.60392157,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.41176471,
+              "g": 0.23529412,
+              "b": 0.1254902,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 1.0,
+              "g": 0.88627451,
+              "b": 0.68627451,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 1.0,
+              "g": 0.83137255,
+              "b": 0.60392157,
+              "a": 1
+            },
+            "accent": {
+              "r": 1.0,
+              "g": 0.60784314,
+              "b": 0.22352941,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "mechanical",
+            "keySurfaceMaterial": "grain",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 6,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.2,
+              "g": 0.27058824,
+              "b": 0.19607843,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 1.0,
+              "g": 0.60784314,
+              "b": 0.22352941,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.09803922,
+                    "g": 0.0745098,
+                    "b": 0.05882353,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.20392157,
+                    "g": 0.1254902,
+                    "b": 0.09411765,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 8
+              },
+              "numbers": {
+                "cornerRadius": 8
+              },
+              "punctuation": {
+                "cornerRadius": 8
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.41176471,
+                  "g": 0.23529412,
+                  "b": 0.1254902,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.88627451,
+                  "b": 0.68627451,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 1.0,
+                  "g": 0.60784314,
+                  "b": 0.22352941,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.20392157,
+                  "g": 0.09411765,
+                  "b": 0.01568627,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.41176471,
+                  "g": 0.23529412,
+                  "b": 0.1254902,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              },
+              "return": {
+                "fill": {
+                  "r": 1.0,
+                  "g": 0.60784314,
+                  "b": 0.22352941,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.20392157,
+                  "g": 0.09411765,
+                  "b": 0.01568627,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 1.0,
+                  "g": 0.60784314,
+                  "b": 0.22352941,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.20392157,
+                  "g": 0.09411765,
+                  "b": 0.01568627,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 1.0,
+                  "g": 0.60784314,
+                  "b": 0.22352941,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              },
+              "space": {
+                "fill": {
+                  "r": 0.2,
+                  "g": 0.27058824,
+                  "b": 0.19607843,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.81568627,
+                  "g": 0.90980392,
+                  "b": 0.65098039,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.2,
+                  "g": 0.27058824,
+                  "b": 0.19607843,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.81568627,
+                  "g": 0.90980392,
+                  "b": 0.65098039,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.2,
+                  "g": 0.27058824,
+                  "b": 0.19607843,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.41176471,
+                  "g": 0.23529412,
+                  "b": 0.1254902,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.88627451,
+                  "b": 0.68627451,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.41176471,
+                  "g": 0.23529412,
+                  "b": 0.1254902,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.88627451,
+                  "b": 0.68627451,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 1.0,
+                  "g": 0.60784314,
+                  "b": 0.22352941,
+                  "a": 1
+                },
+                "cornerRadius": 8
+              }
+            },
+            "backgroundEffect": {
+              "style": "embers",
+              "speed": 0.35,
+              "intensity": 0.26,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 1.0,
+                "g": 0.60784314,
+                "b": 0.22352941,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.2,
+                "g": 0.27058824,
+                "b": 0.19607843,
+                "a": 1
+              }
+            }
+          }
+        ]
+      },
+      "asset": {
+        "path": "halloween-jack-o-lantern.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-events/releases/download/themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865/halloween-jack-o-lantern.clinktheme",
+        "sha256": "6d08cefeadca523d59cecae4f4206097ea0654223e35e6baee847bf8390f8647",
+        "byteCount": 18050
+      },
+      "platform": "both"
+    },
+    {
+      "id": "halloween-witching-hour",
+      "name": "Witching Hour",
+      "version": "themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865",
+      "preview": {
+        "id": "halloween-witching-hour",
+        "name": "Witching Hour",
+        "source": "eventsRepository",
+        "isDark": false,
+        "background": {
+          "r": 0.89411765,
+          "g": 0.85490196,
+          "b": 0.94117647,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.95686275,
+          "g": 0.92941176,
+          "b": 1.0,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.21960784,
+          "g": 0.14117647,
+          "b": 0.31764706,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.78431373,
+          "g": 0.69803922,
+          "b": 0.90196078,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.21960784,
+          "g": 0.14117647,
+          "b": 0.31764706,
+          "a": 1
+        },
+        "suggestionText": {
+          "r": 0.21960784,
+          "g": 0.14117647,
+          "b": 0.31764706,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.37254902,
+          "g": 0.22352941,
+          "b": 0.49803922,
+          "a": 1
+        },
+        "material": "3d",
+        "threeDVariant": "bevel",
+        "keySurfaceMaterial": "gloss",
+        "liquidGlass": false,
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyCapShape": "rect",
+        "grainDensity": 0.65,
+        "grainSize": 0.5,
+        "grainStrength": 0.035,
+        "glossStrength": 0.55,
+        "glossSpread": 0.32,
+        "mechanicalFaceInset": 2.4,
+        "mechanicalInnerRadius": 5,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "bevelDepth": 2.2,
+        "bevelLightAngle": 315,
+        "neumorphicDepth": 2,
+        "neumorphicSoftness": 4,
+        "neumorphicStrength": 0.55,
+        "neowriterRimWidth": 1.2,
+        "neowriterRingWidth": 0.6,
+        "neowriterRingInset": 1.2,
+        "neowriterDepth": 2,
+        "neowriterSoftness": 1.5,
+        "neowriterRimColor": {
+          "r": 0.76862745,
+          "g": 0.84313725,
+          "b": 0.4745098,
+          "a": 1
+        },
+        "neowriterRingColor": {
+          "r": 0.37254902,
+          "g": 0.22352941,
+          "b": 0.49803922,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 135,
+          "stops": [
+            {
+              "position": 0,
+              "color": {
+                "r": 0.89411765,
+                "g": 0.85490196,
+                "b": 0.94117647,
+                "a": 1
+              }
+            },
+            {
+              "position": 1,
+              "color": {
+                "r": 0.78039216,
+                "g": 0.71372549,
+                "b": 0.8745098,
+                "a": 1
+              }
+            }
+          ]
+        },
+        "groupPaint": {
+          "letters": {
+            "cornerRadius": 7
+          },
+          "numbers": {
+            "cornerRadius": 7
+          },
+          "punctuation": {
+            "cornerRadius": 7
+          },
+          "modifiers": {
+            "fill": {
+              "r": 0.78431373,
+              "g": 0.69803922,
+              "b": 0.90196078,
+              "a": 1
+            },
+            "text": {
+              "r": 0.21960784,
+              "g": 0.14117647,
+              "b": 0.31764706,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.37254902,
+              "g": 0.22352941,
+              "b": 0.49803922,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.96470588,
+              "g": 0.98431373,
+              "b": 0.81176471,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.78431373,
+              "g": 0.69803922,
+              "b": 0.90196078,
+              "a": 1
+            },
+            "cornerRadius": 7
+          },
+          "return": {
+            "fill": {
+              "r": 0.37254902,
+              "g": 0.22352941,
+              "b": 0.49803922,
+              "a": 1
+            },
+            "text": {
+              "r": 0.96470588,
+              "g": 0.98431373,
+              "b": 0.81176471,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.37254902,
+              "g": 0.22352941,
+              "b": 0.49803922,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.96470588,
+              "g": 0.98431373,
+              "b": 0.81176471,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.37254902,
+              "g": 0.22352941,
+              "b": 0.49803922,
+              "a": 1
+            },
+            "cornerRadius": 7
+          },
+          "space": {
+            "fill": {
+              "r": 0.76862745,
+              "g": 0.84313725,
+              "b": 0.4745098,
+              "a": 1
+            },
+            "text": {
+              "r": 0.15686275,
+              "g": 0.19215686,
+              "b": 0.05882353,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.76862745,
+              "g": 0.84313725,
+              "b": 0.4745098,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.15686275,
+              "g": 0.19215686,
+              "b": 0.05882353,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.76862745,
+              "g": 0.84313725,
+              "b": 0.4745098,
+              "a": 1
+            },
+            "cornerRadius": 7
+          },
+          "backspace": {
+            "fill": {
+              "r": 0.78431373,
+              "g": 0.69803922,
+              "b": 0.90196078,
+              "a": 1
+            },
+            "text": {
+              "r": 0.21960784,
+              "g": 0.14117647,
+              "b": 0.31764706,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.78431373,
+              "g": 0.69803922,
+              "b": 0.90196078,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.21960784,
+              "g": 0.14117647,
+              "b": 0.31764706,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.37254902,
+              "g": 0.22352941,
+              "b": 0.49803922,
+              "a": 1
+            },
+            "cornerRadius": 7
+          }
+        },
+        "backgroundEffect": {
+          "style": "nebula",
+          "speed": 0.35,
+          "intensity": 0.12,
+          "density": 0.22,
+          "scale": 0.7,
+          "reactive": true,
+          "reactionStrength": 0.35,
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "r": 0.37254902,
+            "g": 0.22352941,
+            "b": 0.49803922,
+            "a": 1
+          },
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.76862745,
+            "g": 0.84313725,
+            "b": 0.4745098,
+            "a": 1
+          }
+        },
+        "pairedVariants": [
+          {
+            "id": "halloween-witching-hour",
+            "name": "Witching Hour",
+            "source": "eventsRepository",
+            "isDark": false,
+            "background": {
+              "r": 0.89411765,
+              "g": 0.85490196,
+              "b": 0.94117647,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.95686275,
+              "g": 0.92941176,
+              "b": 1.0,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.21960784,
+              "g": 0.14117647,
+              "b": 0.31764706,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.78431373,
+              "g": 0.69803922,
+              "b": 0.90196078,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.21960784,
+              "g": 0.14117647,
+              "b": 0.31764706,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.21960784,
+              "g": 0.14117647,
+              "b": 0.31764706,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.37254902,
+              "g": 0.22352941,
+              "b": 0.49803922,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "bevel",
+            "keySurfaceMaterial": "gloss",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 5,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.76862745,
+              "g": 0.84313725,
+              "b": 0.4745098,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.37254902,
+              "g": 0.22352941,
+              "b": 0.49803922,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.89411765,
+                    "g": 0.85490196,
+                    "b": 0.94117647,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.78039216,
+                    "g": 0.71372549,
+                    "b": 0.8745098,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 7
+              },
+              "numbers": {
+                "cornerRadius": 7
+              },
+              "punctuation": {
+                "cornerRadius": 7
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.78431373,
+                  "g": 0.69803922,
+                  "b": 0.90196078,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.21960784,
+                  "g": 0.14117647,
+                  "b": 0.31764706,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.37254902,
+                  "g": 0.22352941,
+                  "b": 0.49803922,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.96470588,
+                  "g": 0.98431373,
+                  "b": 0.81176471,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.78431373,
+                  "g": 0.69803922,
+                  "b": 0.90196078,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              },
+              "return": {
+                "fill": {
+                  "r": 0.37254902,
+                  "g": 0.22352941,
+                  "b": 0.49803922,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.96470588,
+                  "g": 0.98431373,
+                  "b": 0.81176471,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.37254902,
+                  "g": 0.22352941,
+                  "b": 0.49803922,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.96470588,
+                  "g": 0.98431373,
+                  "b": 0.81176471,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.37254902,
+                  "g": 0.22352941,
+                  "b": 0.49803922,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              },
+              "space": {
+                "fill": {
+                  "r": 0.76862745,
+                  "g": 0.84313725,
+                  "b": 0.4745098,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.15686275,
+                  "g": 0.19215686,
+                  "b": 0.05882353,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.76862745,
+                  "g": 0.84313725,
+                  "b": 0.4745098,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.15686275,
+                  "g": 0.19215686,
+                  "b": 0.05882353,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.76862745,
+                  "g": 0.84313725,
+                  "b": 0.4745098,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.78431373,
+                  "g": 0.69803922,
+                  "b": 0.90196078,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.21960784,
+                  "g": 0.14117647,
+                  "b": 0.31764706,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.78431373,
+                  "g": 0.69803922,
+                  "b": 0.90196078,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.21960784,
+                  "g": 0.14117647,
+                  "b": 0.31764706,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.37254902,
+                  "g": 0.22352941,
+                  "b": 0.49803922,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              }
+            },
+            "backgroundEffect": {
+              "style": "nebula",
+              "speed": 0.35,
+              "intensity": 0.12,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.37254902,
+                "g": 0.22352941,
+                "b": 0.49803922,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.76862745,
+                "g": 0.84313725,
+                "b": 0.4745098,
+                "a": 1
+              }
+            }
+          },
+          {
+            "id": "halloween-witching-hour",
+            "name": "Witching Hour",
+            "source": "eventsRepository",
+            "isDark": true,
+            "background": {
+              "r": 0.07058824,
+              "g": 0.05490196,
+              "b": 0.1254902,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.18823529,
+              "g": 0.1372549,
+              "b": 0.25490196,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.89803922,
+              "g": 0.83137255,
+              "b": 0.98039216,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.28627451,
+              "g": 0.19215686,
+              "b": 0.37254902,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.94901961,
+              "g": 0.85098039,
+              "b": 1.0,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.89803922,
+              "g": 0.83137255,
+              "b": 0.98039216,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.83529412,
+              "g": 0.93333333,
+              "b": 0.51372549,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "bevel",
+            "keySurfaceMaterial": "gloss",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 5,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.42352941,
+              "g": 0.2745098,
+              "b": 0.48627451,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.83529412,
+              "g": 0.93333333,
+              "b": 0.51372549,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.07058824,
+                    "g": 0.05490196,
+                    "b": 0.1254902,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.14117647,
+                    "g": 0.08627451,
+                    "b": 0.20784314,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 7
+              },
+              "numbers": {
+                "cornerRadius": 7
+              },
+              "punctuation": {
+                "cornerRadius": 7
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.28627451,
+                  "g": 0.19215686,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.94901961,
+                  "g": 0.85098039,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.83529412,
+                  "g": 0.93333333,
+                  "b": 0.51372549,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.14509804,
+                  "g": 0.19607843,
+                  "b": 0.05882353,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.28627451,
+                  "g": 0.19215686,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              },
+              "return": {
+                "fill": {
+                  "r": 0.83529412,
+                  "g": 0.93333333,
+                  "b": 0.51372549,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.14509804,
+                  "g": 0.19607843,
+                  "b": 0.05882353,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.83529412,
+                  "g": 0.93333333,
+                  "b": 0.51372549,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.14509804,
+                  "g": 0.19607843,
+                  "b": 0.05882353,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.83529412,
+                  "g": 0.93333333,
+                  "b": 0.51372549,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              },
+              "space": {
+                "fill": {
+                  "r": 0.42352941,
+                  "g": 0.2745098,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.97647059,
+                  "g": 0.89803922,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.42352941,
+                  "g": 0.2745098,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.97647059,
+                  "g": 0.89803922,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.42352941,
+                  "g": 0.2745098,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.28627451,
+                  "g": 0.19215686,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.94901961,
+                  "g": 0.85098039,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.28627451,
+                  "g": 0.19215686,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.94901961,
+                  "g": 0.85098039,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.83529412,
+                  "g": 0.93333333,
+                  "b": 0.51372549,
+                  "a": 1
+                },
+                "cornerRadius": 7
+              }
+            },
+            "backgroundEffect": {
+              "style": "nebula",
+              "speed": 0.35,
+              "intensity": 0.26,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.83529412,
+                "g": 0.93333333,
+                "b": 0.51372549,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.42352941,
+                "g": 0.2745098,
+                "b": 0.48627451,
+                "a": 1
+              }
+            }
+          }
+        ]
+      },
+      "asset": {
+        "path": "halloween-witching-hour.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-events/releases/download/themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865/halloween-witching-hour.clinktheme",
+        "sha256": "d38b03e19dfe28def094c157ed321d6627a06efee507c59d75b1eecc28c7395f",
+        "byteCount": 18178
+      },
+      "platform": "both"
+    },
+    {
+      "id": "halloween-ghostlight",
+      "name": "Ghostlight",
+      "version": "themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865",
+      "preview": {
+        "id": "halloween-ghostlight",
+        "name": "Ghostlight",
+        "source": "eventsRepository",
+        "isDark": false,
+        "background": {
+          "r": 0.85098039,
+          "g": 0.91372549,
+          "b": 0.90588235,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.94117647,
+          "g": 0.97647059,
+          "b": 0.95686275,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.14509804,
+          "g": 0.30980392,
+          "b": 0.33333333,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.72156863,
+          "g": 0.83921569,
+          "b": 0.83921569,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.14117647,
+          "g": 0.29803922,
+          "b": 0.32941176,
+          "a": 1
+        },
+        "suggestionText": {
+          "r": 0.14509804,
+          "g": 0.30980392,
+          "b": 0.33333333,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.20784314,
+          "g": 0.41960784,
+          "b": 0.46666667,
+          "a": 1
+        },
+        "material": "3d",
+        "threeDVariant": "neumorphic",
+        "keySurfaceMaterial": "normal",
+        "liquidGlass": false,
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyCapShape": "rect",
+        "grainDensity": 0.65,
+        "grainSize": 0.5,
+        "grainStrength": 0.035,
+        "glossStrength": 0.55,
+        "glossSpread": 0.32,
+        "mechanicalFaceInset": 2.4,
+        "mechanicalInnerRadius": 10,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "bevelDepth": 2.2,
+        "bevelLightAngle": 315,
+        "neumorphicDepth": 2,
+        "neumorphicSoftness": 4,
+        "neumorphicStrength": 0.55,
+        "neowriterRimWidth": 1.2,
+        "neowriterRingWidth": 0.6,
+        "neowriterRingInset": 1.2,
+        "neowriterDepth": 2,
+        "neowriterSoftness": 1.5,
+        "neowriterRimColor": {
+          "r": 0.71372549,
+          "g": 0.78039216,
+          "b": 0.90980392,
+          "a": 1
+        },
+        "neowriterRingColor": {
+          "r": 0.20784314,
+          "g": 0.41960784,
+          "b": 0.46666667,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 135,
+          "stops": [
+            {
+              "position": 0,
+              "color": {
+                "r": 0.85098039,
+                "g": 0.91372549,
+                "b": 0.90588235,
+                "a": 1
+              }
+            },
+            {
+              "position": 1,
+              "color": {
+                "r": 0.73333333,
+                "g": 0.80784314,
+                "b": 0.8627451,
+                "a": 1
+              }
+            }
+          ]
+        },
+        "groupPaint": {
+          "letters": {
+            "cornerRadius": 12
+          },
+          "numbers": {
+            "cornerRadius": 12
+          },
+          "punctuation": {
+            "cornerRadius": 12
+          },
+          "modifiers": {
+            "fill": {
+              "r": 0.72156863,
+              "g": 0.83921569,
+              "b": 0.83921569,
+              "a": 1
+            },
+            "text": {
+              "r": 0.14117647,
+              "g": 0.29803922,
+              "b": 0.32941176,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.20784314,
+              "g": 0.41960784,
+              "b": 0.46666667,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.94509804,
+              "g": 0.99607843,
+              "b": 0.98823529,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.72156863,
+              "g": 0.83921569,
+              "b": 0.83921569,
+              "a": 1
+            },
+            "cornerRadius": 12
+          },
+          "return": {
+            "fill": {
+              "r": 0.20784314,
+              "g": 0.41960784,
+              "b": 0.46666667,
+              "a": 1
+            },
+            "text": {
+              "r": 0.94509804,
+              "g": 0.99607843,
+              "b": 0.98823529,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.20784314,
+              "g": 0.41960784,
+              "b": 0.46666667,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.94509804,
+              "g": 0.99607843,
+              "b": 0.98823529,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.20784314,
+              "g": 0.41960784,
+              "b": 0.46666667,
+              "a": 1
+            },
+            "cornerRadius": 12
+          },
+          "space": {
+            "fill": {
+              "r": 0.71372549,
+              "g": 0.78039216,
+              "b": 0.90980392,
+              "a": 1
+            },
+            "text": {
+              "r": 0.14509804,
+              "g": 0.21960784,
+              "b": 0.34509804,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.71372549,
+              "g": 0.78039216,
+              "b": 0.90980392,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.14509804,
+              "g": 0.21960784,
+              "b": 0.34509804,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.71372549,
+              "g": 0.78039216,
+              "b": 0.90980392,
+              "a": 1
+            },
+            "cornerRadius": 12
+          },
+          "backspace": {
+            "fill": {
+              "r": 0.72156863,
+              "g": 0.83921569,
+              "b": 0.83921569,
+              "a": 1
+            },
+            "text": {
+              "r": 0.14117647,
+              "g": 0.29803922,
+              "b": 0.32941176,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.72156863,
+              "g": 0.83921569,
+              "b": 0.83921569,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.14117647,
+              "g": 0.29803922,
+              "b": 0.32941176,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.20784314,
+              "g": 0.41960784,
+              "b": 0.46666667,
+              "a": 1
+            },
+            "cornerRadius": 12
+          }
+        },
+        "backgroundEffect": {
+          "style": "aurora",
+          "speed": 0.35,
+          "intensity": 0.12,
+          "density": 0.22,
+          "scale": 0.7,
+          "reactive": true,
+          "reactionStrength": 0.35,
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "r": 0.20784314,
+            "g": 0.41960784,
+            "b": 0.46666667,
+            "a": 1
+          },
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.71372549,
+            "g": 0.78039216,
+            "b": 0.90980392,
+            "a": 1
+          }
+        },
+        "pairedVariants": [
+          {
+            "id": "halloween-ghostlight",
+            "name": "Ghostlight",
+            "source": "eventsRepository",
+            "isDark": false,
+            "background": {
+              "r": 0.85098039,
+              "g": 0.91372549,
+              "b": 0.90588235,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.94117647,
+              "g": 0.97647059,
+              "b": 0.95686275,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.14509804,
+              "g": 0.30980392,
+              "b": 0.33333333,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.72156863,
+              "g": 0.83921569,
+              "b": 0.83921569,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.14117647,
+              "g": 0.29803922,
+              "b": 0.32941176,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.14509804,
+              "g": 0.30980392,
+              "b": 0.33333333,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.20784314,
+              "g": 0.41960784,
+              "b": 0.46666667,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "neumorphic",
+            "keySurfaceMaterial": "normal",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 10,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.71372549,
+              "g": 0.78039216,
+              "b": 0.90980392,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.20784314,
+              "g": 0.41960784,
+              "b": 0.46666667,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.85098039,
+                    "g": 0.91372549,
+                    "b": 0.90588235,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.73333333,
+                    "g": 0.80784314,
+                    "b": 0.8627451,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 12
+              },
+              "numbers": {
+                "cornerRadius": 12
+              },
+              "punctuation": {
+                "cornerRadius": 12
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.72156863,
+                  "g": 0.83921569,
+                  "b": 0.83921569,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.14117647,
+                  "g": 0.29803922,
+                  "b": 0.32941176,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.20784314,
+                  "g": 0.41960784,
+                  "b": 0.46666667,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.94509804,
+                  "g": 0.99607843,
+                  "b": 0.98823529,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.72156863,
+                  "g": 0.83921569,
+                  "b": 0.83921569,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              },
+              "return": {
+                "fill": {
+                  "r": 0.20784314,
+                  "g": 0.41960784,
+                  "b": 0.46666667,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.94509804,
+                  "g": 0.99607843,
+                  "b": 0.98823529,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.20784314,
+                  "g": 0.41960784,
+                  "b": 0.46666667,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.94509804,
+                  "g": 0.99607843,
+                  "b": 0.98823529,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.20784314,
+                  "g": 0.41960784,
+                  "b": 0.46666667,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              },
+              "space": {
+                "fill": {
+                  "r": 0.71372549,
+                  "g": 0.78039216,
+                  "b": 0.90980392,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.14509804,
+                  "g": 0.21960784,
+                  "b": 0.34509804,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.71372549,
+                  "g": 0.78039216,
+                  "b": 0.90980392,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.14509804,
+                  "g": 0.21960784,
+                  "b": 0.34509804,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.71372549,
+                  "g": 0.78039216,
+                  "b": 0.90980392,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.72156863,
+                  "g": 0.83921569,
+                  "b": 0.83921569,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.14117647,
+                  "g": 0.29803922,
+                  "b": 0.32941176,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.72156863,
+                  "g": 0.83921569,
+                  "b": 0.83921569,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.14117647,
+                  "g": 0.29803922,
+                  "b": 0.32941176,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.20784314,
+                  "g": 0.41960784,
+                  "b": 0.46666667,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              }
+            },
+            "backgroundEffect": {
+              "style": "aurora",
+              "speed": 0.35,
+              "intensity": 0.12,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.20784314,
+                "g": 0.41960784,
+                "b": 0.46666667,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.71372549,
+                "g": 0.78039216,
+                "b": 0.90980392,
+                "a": 1
+              }
+            }
+          },
+          {
+            "id": "halloween-ghostlight",
+            "name": "Ghostlight",
+            "source": "eventsRepository",
+            "isDark": true,
+            "background": {
+              "r": 0.05490196,
+              "g": 0.10980392,
+              "b": 0.14901961,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.1372549,
+              "g": 0.21568627,
+              "b": 0.27843137,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.85098039,
+              "g": 0.98039216,
+              "b": 0.94509804,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.18823529,
+              "g": 0.30980392,
+              "b": 0.34901961,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.81176471,
+              "g": 0.98039216,
+              "b": 0.94509804,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.85098039,
+              "g": 0.98039216,
+              "b": 0.94509804,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.64313725,
+              "g": 0.89803922,
+              "b": 0.83529412,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "neumorphic",
+            "keySurfaceMaterial": "normal",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 10,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.23137255,
+              "g": 0.2745098,
+              "b": 0.38039216,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.64313725,
+              "g": 0.89803922,
+              "b": 0.83529412,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.05490196,
+                    "g": 0.10980392,
+                    "b": 0.14901961,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.10980392,
+                    "g": 0.18823529,
+                    "b": 0.25882353,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 12
+              },
+              "numbers": {
+                "cornerRadius": 12
+              },
+              "punctuation": {
+                "cornerRadius": 12
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.18823529,
+                  "g": 0.30980392,
+                  "b": 0.34901961,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.81176471,
+                  "g": 0.98039216,
+                  "b": 0.94509804,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.64313725,
+                  "g": 0.89803922,
+                  "b": 0.83529412,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.08235294,
+                  "g": 0.23921569,
+                  "b": 0.23137255,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.18823529,
+                  "g": 0.30980392,
+                  "b": 0.34901961,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              },
+              "return": {
+                "fill": {
+                  "r": 0.64313725,
+                  "g": 0.89803922,
+                  "b": 0.83529412,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.08235294,
+                  "g": 0.23921569,
+                  "b": 0.23137255,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.64313725,
+                  "g": 0.89803922,
+                  "b": 0.83529412,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.08235294,
+                  "g": 0.23921569,
+                  "b": 0.23137255,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.64313725,
+                  "g": 0.89803922,
+                  "b": 0.83529412,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              },
+              "space": {
+                "fill": {
+                  "r": 0.23137255,
+                  "g": 0.2745098,
+                  "b": 0.38039216,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.87843137,
+                  "g": 0.90980392,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.23137255,
+                  "g": 0.2745098,
+                  "b": 0.38039216,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.87843137,
+                  "g": 0.90980392,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.23137255,
+                  "g": 0.2745098,
+                  "b": 0.38039216,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.18823529,
+                  "g": 0.30980392,
+                  "b": 0.34901961,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.81176471,
+                  "g": 0.98039216,
+                  "b": 0.94509804,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.18823529,
+                  "g": 0.30980392,
+                  "b": 0.34901961,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.81176471,
+                  "g": 0.98039216,
+                  "b": 0.94509804,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.64313725,
+                  "g": 0.89803922,
+                  "b": 0.83529412,
+                  "a": 1
+                },
+                "cornerRadius": 12
+              }
+            },
+            "backgroundEffect": {
+              "style": "aurora",
+              "speed": 0.35,
+              "intensity": 0.26,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.64313725,
+                "g": 0.89803922,
+                "b": 0.83529412,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.23137255,
+                "g": 0.2745098,
+                "b": 0.38039216,
+                "a": 1
+              }
+            }
+          }
+        ]
+      },
+      "asset": {
+        "path": "halloween-ghostlight.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-events/releases/download/themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865/halloween-ghostlight.clinktheme",
+        "sha256": "54f800c6ab1bef6a69499ef8bfa1a9d8860b60a180dc325a554898f02e7ec797",
+        "byteCount": 18256
+      },
+      "platform": "both"
+    },
+    {
+      "id": "halloween-vampire-velvet",
+      "name": "Vampire Velvet",
+      "version": "themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865",
+      "preview": {
+        "id": "halloween-vampire-velvet",
+        "name": "Vampire Velvet",
+        "source": "eventsRepository",
+        "isDark": false,
+        "background": {
+          "r": 0.89411765,
+          "g": 0.83529412,
+          "b": 0.8,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 1.0,
+          "g": 0.94117647,
+          "b": 0.8745098,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.29411765,
+          "g": 0.14509804,
+          "b": 0.19607843,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.57254902,
+          "g": 0.35686275,
+          "b": 0.40784314,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 1.0,
+          "g": 0.96078431,
+          "b": 0.90588235,
+          "a": 1
+        },
+        "suggestionText": {
+          "r": 0.29411765,
+          "g": 0.14509804,
+          "b": 0.19607843,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.45490196,
+          "g": 0.14117647,
+          "b": 0.23529412,
+          "a": 1
+        },
+        "material": "3d",
+        "threeDVariant": "mechanical",
+        "keySurfaceMaterial": "grain",
+        "liquidGlass": false,
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyCapShape": "rect",
+        "grainDensity": 0.65,
+        "grainSize": 0.5,
+        "grainStrength": 0.035,
+        "glossStrength": 0.55,
+        "glossSpread": 0.32,
+        "mechanicalFaceInset": 2.4,
+        "mechanicalInnerRadius": 3,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "bevelDepth": 2.2,
+        "bevelLightAngle": 315,
+        "neumorphicDepth": 2,
+        "neumorphicSoftness": 4,
+        "neumorphicStrength": 0.55,
+        "neowriterRimWidth": 1.2,
+        "neowriterRingWidth": 0.6,
+        "neowriterRingInset": 1.2,
+        "neowriterDepth": 2,
+        "neowriterSoftness": 1.5,
+        "neowriterRimColor": {
+          "r": 0.79607843,
+          "g": 0.70588235,
+          "b": 0.55294118,
+          "a": 1
+        },
+        "neowriterRingColor": {
+          "r": 0.45490196,
+          "g": 0.14117647,
+          "b": 0.23529412,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 135,
+          "stops": [
+            {
+              "position": 0,
+              "color": {
+                "r": 0.89411765,
+                "g": 0.83529412,
+                "b": 0.8,
+                "a": 1
+              }
+            },
+            {
+              "position": 1,
+              "color": {
+                "r": 0.79215686,
+                "g": 0.70196078,
+                "b": 0.6745098,
+                "a": 1
+              }
+            }
+          ]
+        },
+        "groupPaint": {
+          "letters": {
+            "cornerRadius": 5
+          },
+          "numbers": {
+            "cornerRadius": 5
+          },
+          "punctuation": {
+            "cornerRadius": 5
+          },
+          "modifiers": {
+            "fill": {
+              "r": 0.57254902,
+              "g": 0.35686275,
+              "b": 0.40784314,
+              "a": 1
+            },
+            "text": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.90588235,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.45490196,
+              "g": 0.14117647,
+              "b": 0.23529412,
+              "a": 1
+            },
+            "activeText": {
+              "r": 1.0,
+              "g": 0.94117647,
+              "b": 0.86666667,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.57254902,
+              "g": 0.35686275,
+              "b": 0.40784314,
+              "a": 1
+            },
+            "cornerRadius": 5
+          },
+          "return": {
+            "fill": {
+              "r": 0.45490196,
+              "g": 0.14117647,
+              "b": 0.23529412,
+              "a": 1
+            },
+            "text": {
+              "r": 1.0,
+              "g": 0.94117647,
+              "b": 0.86666667,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.45490196,
+              "g": 0.14117647,
+              "b": 0.23529412,
+              "a": 1
+            },
+            "activeText": {
+              "r": 1.0,
+              "g": 0.94117647,
+              "b": 0.86666667,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.45490196,
+              "g": 0.14117647,
+              "b": 0.23529412,
+              "a": 1
+            },
+            "cornerRadius": 5
+          },
+          "space": {
+            "fill": {
+              "r": 0.79607843,
+              "g": 0.70588235,
+              "b": 0.55294118,
+              "a": 1
+            },
+            "text": {
+              "r": 0.27058824,
+              "g": 0.2,
+              "b": 0.11372549,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.79607843,
+              "g": 0.70588235,
+              "b": 0.55294118,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.27058824,
+              "g": 0.2,
+              "b": 0.11372549,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.79607843,
+              "g": 0.70588235,
+              "b": 0.55294118,
+              "a": 1
+            },
+            "cornerRadius": 5
+          },
+          "backspace": {
+            "fill": {
+              "r": 0.57254902,
+              "g": 0.35686275,
+              "b": 0.40784314,
+              "a": 1
+            },
+            "text": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.90588235,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.57254902,
+              "g": 0.35686275,
+              "b": 0.40784314,
+              "a": 1
+            },
+            "activeText": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.90588235,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.45490196,
+              "g": 0.14117647,
+              "b": 0.23529412,
+              "a": 1
+            },
+            "cornerRadius": 5
+          }
+        },
+        "backgroundEffect": {
+          "style": "bokeh",
+          "speed": 0.35,
+          "intensity": 0.12,
+          "density": 0.22,
+          "scale": 0.7,
+          "reactive": true,
+          "reactionStrength": 0.35,
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "r": 0.45490196,
+            "g": 0.14117647,
+            "b": 0.23529412,
+            "a": 1
+          },
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.79607843,
+            "g": 0.70588235,
+            "b": 0.55294118,
+            "a": 1
+          }
+        },
+        "pairedVariants": [
+          {
+            "id": "halloween-vampire-velvet",
+            "name": "Vampire Velvet",
+            "source": "eventsRepository",
+            "isDark": false,
+            "background": {
+              "r": 0.89411765,
+              "g": 0.83529412,
+              "b": 0.8,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 1.0,
+              "g": 0.94117647,
+              "b": 0.8745098,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.29411765,
+              "g": 0.14509804,
+              "b": 0.19607843,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.57254902,
+              "g": 0.35686275,
+              "b": 0.40784314,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.90588235,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.29411765,
+              "g": 0.14509804,
+              "b": 0.19607843,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.45490196,
+              "g": 0.14117647,
+              "b": 0.23529412,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "mechanical",
+            "keySurfaceMaterial": "grain",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 3,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.79607843,
+              "g": 0.70588235,
+              "b": 0.55294118,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.45490196,
+              "g": 0.14117647,
+              "b": 0.23529412,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.89411765,
+                    "g": 0.83529412,
+                    "b": 0.8,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.79215686,
+                    "g": 0.70196078,
+                    "b": 0.6745098,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 5
+              },
+              "numbers": {
+                "cornerRadius": 5
+              },
+              "punctuation": {
+                "cornerRadius": 5
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.57254902,
+                  "g": 0.35686275,
+                  "b": 0.40784314,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.90588235,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.45490196,
+                  "g": 0.14117647,
+                  "b": 0.23529412,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.94117647,
+                  "b": 0.86666667,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.57254902,
+                  "g": 0.35686275,
+                  "b": 0.40784314,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              },
+              "return": {
+                "fill": {
+                  "r": 0.45490196,
+                  "g": 0.14117647,
+                  "b": 0.23529412,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.94117647,
+                  "b": 0.86666667,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.45490196,
+                  "g": 0.14117647,
+                  "b": 0.23529412,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.94117647,
+                  "b": 0.86666667,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.45490196,
+                  "g": 0.14117647,
+                  "b": 0.23529412,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              },
+              "space": {
+                "fill": {
+                  "r": 0.79607843,
+                  "g": 0.70588235,
+                  "b": 0.55294118,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.27058824,
+                  "g": 0.2,
+                  "b": 0.11372549,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.79607843,
+                  "g": 0.70588235,
+                  "b": 0.55294118,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.27058824,
+                  "g": 0.2,
+                  "b": 0.11372549,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.79607843,
+                  "g": 0.70588235,
+                  "b": 0.55294118,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.57254902,
+                  "g": 0.35686275,
+                  "b": 0.40784314,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.90588235,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.57254902,
+                  "g": 0.35686275,
+                  "b": 0.40784314,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.90588235,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.45490196,
+                  "g": 0.14117647,
+                  "b": 0.23529412,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              }
+            },
+            "backgroundEffect": {
+              "style": "bokeh",
+              "speed": 0.35,
+              "intensity": 0.12,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.45490196,
+                "g": 0.14117647,
+                "b": 0.23529412,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.79607843,
+                "g": 0.70588235,
+                "b": 0.55294118,
+                "a": 1
+              }
+            }
+          },
+          {
+            "id": "halloween-vampire-velvet",
+            "name": "Vampire Velvet",
+            "source": "eventsRepository",
+            "isDark": true,
+            "background": {
+              "r": 0.10588235,
+              "g": 0.04705882,
+              "b": 0.07843137,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.25098039,
+              "g": 0.12941176,
+              "b": 0.18431373,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.96078431,
+              "g": 0.88235294,
+              "b": 0.79215686,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.40392157,
+              "g": 0.14509804,
+              "b": 0.24313725,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 1.0,
+              "g": 0.89019608,
+              "b": 0.85098039,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.96078431,
+              "g": 0.88235294,
+              "b": 0.79215686,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.85098039,
+              "g": 0.7254902,
+              "b": 0.48627451,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "mechanical",
+            "keySurfaceMaterial": "grain",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 3,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.23921569,
+              "g": 0.20392157,
+              "b": 0.25098039,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.85098039,
+              "g": 0.7254902,
+              "b": 0.48627451,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.10588235,
+                    "g": 0.04705882,
+                    "b": 0.07843137,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.19607843,
+                    "g": 0.07058824,
+                    "b": 0.12156863,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 5
+              },
+              "numbers": {
+                "cornerRadius": 5
+              },
+              "punctuation": {
+                "cornerRadius": 5
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.40392157,
+                  "g": 0.14509804,
+                  "b": 0.24313725,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.89019608,
+                  "b": 0.85098039,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.85098039,
+                  "g": 0.7254902,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.20784314,
+                  "g": 0.1254902,
+                  "b": 0.05490196,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.40392157,
+                  "g": 0.14509804,
+                  "b": 0.24313725,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              },
+              "return": {
+                "fill": {
+                  "r": 0.85098039,
+                  "g": 0.7254902,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.20784314,
+                  "g": 0.1254902,
+                  "b": 0.05490196,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.85098039,
+                  "g": 0.7254902,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.20784314,
+                  "g": 0.1254902,
+                  "b": 0.05490196,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.85098039,
+                  "g": 0.7254902,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              },
+              "space": {
+                "fill": {
+                  "r": 0.23921569,
+                  "g": 0.20392157,
+                  "b": 0.25098039,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.91372549,
+                  "g": 0.79607843,
+                  "b": 0.85098039,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.23921569,
+                  "g": 0.20392157,
+                  "b": 0.25098039,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.91372549,
+                  "g": 0.79607843,
+                  "b": 0.85098039,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.23921569,
+                  "g": 0.20392157,
+                  "b": 0.25098039,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.40392157,
+                  "g": 0.14509804,
+                  "b": 0.24313725,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.89019608,
+                  "b": 0.85098039,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.40392157,
+                  "g": 0.14509804,
+                  "b": 0.24313725,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.89019608,
+                  "b": 0.85098039,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.85098039,
+                  "g": 0.7254902,
+                  "b": 0.48627451,
+                  "a": 1
+                },
+                "cornerRadius": 5
+              }
+            },
+            "backgroundEffect": {
+              "style": "bokeh",
+              "speed": 0.35,
+              "intensity": 0.26,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.85098039,
+                "g": 0.7254902,
+                "b": 0.48627451,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.23921569,
+                "g": 0.20392157,
+                "b": 0.25098039,
+                "a": 1
+              }
+            }
+          }
+        ]
+      },
+      "asset": {
+        "path": "halloween-vampire-velvet.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-events/releases/download/themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865/halloween-vampire-velvet.clinktheme",
+        "sha256": "590568d6cb54751d1a2ecc348caabbf137a599fc83d506361362005ea98b510e",
+        "byteCount": 18061
+      },
+      "platform": "both"
+    },
+    {
+      "id": "halloween-candy-coven",
+      "name": "Candy Coven",
+      "version": "themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865",
+      "preview": {
+        "id": "halloween-candy-coven",
+        "name": "Candy Coven",
+        "source": "eventsRepository",
+        "isDark": false,
+        "background": {
+          "r": 0.95686275,
+          "g": 0.86666667,
+          "b": 0.89411765,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 1.0,
+          "g": 0.94117647,
+          "b": 0.85098039,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.35686275,
+          "g": 0.21176471,
+          "b": 0.28235294,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.83137255,
+          "g": 0.69803922,
+          "b": 0.89803922,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.26666667,
+          "g": 0.16470588,
+          "b": 0.36470588,
+          "a": 1
+        },
+        "suggestionText": {
+          "r": 0.35686275,
+          "g": 0.21176471,
+          "b": 0.28235294,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.73333333,
+          "g": 0.31372549,
+          "b": 0.14117647,
+          "a": 1
+        },
+        "material": "bubble",
+        "threeDVariant": "retro",
+        "keySurfaceMaterial": "gloss",
+        "liquidGlass": false,
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "medium",
+        "keyCapShape": "rect",
+        "grainDensity": 0.65,
+        "grainSize": 0.5,
+        "grainStrength": 0.035,
+        "glossStrength": 0.55,
+        "glossSpread": 0.32,
+        "mechanicalFaceInset": 2.4,
+        "mechanicalInnerRadius": 11,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "bevelDepth": 2.2,
+        "bevelLightAngle": 315,
+        "neumorphicDepth": 2,
+        "neumorphicSoftness": 4,
+        "neumorphicStrength": 0.55,
+        "neowriterRimWidth": 1.2,
+        "neowriterRingWidth": 0.6,
+        "neowriterRingInset": 1.2,
+        "neowriterDepth": 2,
+        "neowriterSoftness": 1.5,
+        "neowriterRimColor": {
+          "r": 0.6745098,
+          "g": 0.80784314,
+          "b": 0.71372549,
+          "a": 1
+        },
+        "neowriterRingColor": {
+          "r": 0.73333333,
+          "g": 0.31372549,
+          "b": 0.14117647,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 135,
+          "stops": [
+            {
+              "position": 0,
+              "color": {
+                "r": 0.95686275,
+                "g": 0.86666667,
+                "b": 0.89411765,
+                "a": 1
+              }
+            },
+            {
+              "position": 1,
+              "color": {
+                "r": 0.86666667,
+                "g": 0.81568627,
+                "b": 0.94509804,
+                "a": 1
+              }
+            }
+          ]
+        },
+        "groupPaint": {
+          "letters": {
+            "cornerRadius": 13
+          },
+          "numbers": {
+            "cornerRadius": 13
+          },
+          "punctuation": {
+            "cornerRadius": 13
+          },
+          "modifiers": {
+            "fill": {
+              "r": 0.83137255,
+              "g": 0.69803922,
+              "b": 0.89803922,
+              "a": 1
+            },
+            "text": {
+              "r": 0.26666667,
+              "g": 0.16470588,
+              "b": 0.36470588,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.73333333,
+              "g": 0.31372549,
+              "b": 0.14117647,
+              "a": 1
+            },
+            "activeText": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.87058824,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.83137255,
+              "g": 0.69803922,
+              "b": 0.89803922,
+              "a": 1
+            },
+            "cornerRadius": 13
+          },
+          "return": {
+            "fill": {
+              "r": 0.73333333,
+              "g": 0.31372549,
+              "b": 0.14117647,
+              "a": 1
+            },
+            "text": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.87058824,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.73333333,
+              "g": 0.31372549,
+              "b": 0.14117647,
+              "a": 1
+            },
+            "activeText": {
+              "r": 1.0,
+              "g": 0.96078431,
+              "b": 0.87058824,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.73333333,
+              "g": 0.31372549,
+              "b": 0.14117647,
+              "a": 1
+            },
+            "cornerRadius": 13
+          },
+          "space": {
+            "fill": {
+              "r": 0.6745098,
+              "g": 0.80784314,
+              "b": 0.71372549,
+              "a": 1
+            },
+            "text": {
+              "r": 0.16078431,
+              "g": 0.29019608,
+              "b": 0.21568627,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.6745098,
+              "g": 0.80784314,
+              "b": 0.71372549,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.16078431,
+              "g": 0.29019608,
+              "b": 0.21568627,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.6745098,
+              "g": 0.80784314,
+              "b": 0.71372549,
+              "a": 1
+            },
+            "cornerRadius": 13
+          },
+          "backspace": {
+            "fill": {
+              "r": 0.83137255,
+              "g": 0.69803922,
+              "b": 0.89803922,
+              "a": 1
+            },
+            "text": {
+              "r": 0.26666667,
+              "g": 0.16470588,
+              "b": 0.36470588,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.83137255,
+              "g": 0.69803922,
+              "b": 0.89803922,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.26666667,
+              "g": 0.16470588,
+              "b": 0.36470588,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.73333333,
+              "g": 0.31372549,
+              "b": 0.14117647,
+              "a": 1
+            },
+            "cornerRadius": 13
+          }
+        },
+        "backgroundEffect": {
+          "style": "bubbles",
+          "speed": 0.35,
+          "intensity": 0.12,
+          "density": 0.22,
+          "scale": 0.7,
+          "reactive": true,
+          "reactionStrength": 0.35,
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "r": 0.73333333,
+            "g": 0.31372549,
+            "b": 0.14117647,
+            "a": 1
+          },
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.6745098,
+            "g": 0.80784314,
+            "b": 0.71372549,
+            "a": 1
+          }
+        },
+        "pairedVariants": [
+          {
+            "id": "halloween-candy-coven",
+            "name": "Candy Coven",
+            "source": "eventsRepository",
+            "isDark": false,
+            "background": {
+              "r": 0.95686275,
+              "g": 0.86666667,
+              "b": 0.89411765,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 1.0,
+              "g": 0.94117647,
+              "b": 0.85098039,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.35686275,
+              "g": 0.21176471,
+              "b": 0.28235294,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.83137255,
+              "g": 0.69803922,
+              "b": 0.89803922,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.26666667,
+              "g": 0.16470588,
+              "b": 0.36470588,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.35686275,
+              "g": 0.21176471,
+              "b": 0.28235294,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.73333333,
+              "g": 0.31372549,
+              "b": 0.14117647,
+              "a": 1
+            },
+            "material": "bubble",
+            "threeDVariant": "retro",
+            "keySurfaceMaterial": "gloss",
+            "liquidGlass": false,
+            "keyFontDesign": "rounded",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 11,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.6745098,
+              "g": 0.80784314,
+              "b": 0.71372549,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.73333333,
+              "g": 0.31372549,
+              "b": 0.14117647,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.95686275,
+                    "g": 0.86666667,
+                    "b": 0.89411765,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.86666667,
+                    "g": 0.81568627,
+                    "b": 0.94509804,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 13
+              },
+              "numbers": {
+                "cornerRadius": 13
+              },
+              "punctuation": {
+                "cornerRadius": 13
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.83137255,
+                  "g": 0.69803922,
+                  "b": 0.89803922,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.26666667,
+                  "g": 0.16470588,
+                  "b": 0.36470588,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.73333333,
+                  "g": 0.31372549,
+                  "b": 0.14117647,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.87058824,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.83137255,
+                  "g": 0.69803922,
+                  "b": 0.89803922,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              },
+              "return": {
+                "fill": {
+                  "r": 0.73333333,
+                  "g": 0.31372549,
+                  "b": 0.14117647,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.87058824,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.73333333,
+                  "g": 0.31372549,
+                  "b": 0.14117647,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.96078431,
+                  "b": 0.87058824,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.73333333,
+                  "g": 0.31372549,
+                  "b": 0.14117647,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              },
+              "space": {
+                "fill": {
+                  "r": 0.6745098,
+                  "g": 0.80784314,
+                  "b": 0.71372549,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.16078431,
+                  "g": 0.29019608,
+                  "b": 0.21568627,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.6745098,
+                  "g": 0.80784314,
+                  "b": 0.71372549,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.16078431,
+                  "g": 0.29019608,
+                  "b": 0.21568627,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.6745098,
+                  "g": 0.80784314,
+                  "b": 0.71372549,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.83137255,
+                  "g": 0.69803922,
+                  "b": 0.89803922,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.26666667,
+                  "g": 0.16470588,
+                  "b": 0.36470588,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.83137255,
+                  "g": 0.69803922,
+                  "b": 0.89803922,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.26666667,
+                  "g": 0.16470588,
+                  "b": 0.36470588,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.73333333,
+                  "g": 0.31372549,
+                  "b": 0.14117647,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              }
+            },
+            "backgroundEffect": {
+              "style": "bubbles",
+              "speed": 0.35,
+              "intensity": 0.12,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.73333333,
+                "g": 0.31372549,
+                "b": 0.14117647,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.6745098,
+                "g": 0.80784314,
+                "b": 0.71372549,
+                "a": 1
+              }
+            }
+          },
+          {
+            "id": "halloween-candy-coven",
+            "name": "Candy Coven",
+            "source": "eventsRepository",
+            "isDark": true,
+            "background": {
+              "r": 0.1372549,
+              "g": 0.07058824,
+              "b": 0.14509804,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.30980392,
+              "g": 0.19215686,
+              "b": 0.35294118,
+              "a": 1
+            },
+            "keyText": {
+              "r": 1.0,
+              "g": 0.90980392,
+              "b": 0.96470588,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.45882353,
+              "g": 0.30588235,
+              "b": 0.51764706,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 1.0,
+              "g": 0.94117647,
+              "b": 1.0,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 1.0,
+              "g": 0.90980392,
+              "b": 0.96470588,
+              "a": 1
+            },
+            "accent": {
+              "r": 1.0,
+              "g": 0.66666667,
+              "b": 0.37254902,
+              "a": 1
+            },
+            "material": "bubble",
+            "threeDVariant": "retro",
+            "keySurfaceMaterial": "gloss",
+            "liquidGlass": false,
+            "keyFontDesign": "rounded",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 11,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.21960784,
+              "g": 0.35294118,
+              "b": 0.3254902,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 1.0,
+              "g": 0.66666667,
+              "b": 0.37254902,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.1372549,
+                    "g": 0.07058824,
+                    "b": 0.14509804,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.22352941,
+                    "g": 0.10980392,
+                    "b": 0.23921569,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 13
+              },
+              "numbers": {
+                "cornerRadius": 13
+              },
+              "punctuation": {
+                "cornerRadius": 13
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.45882353,
+                  "g": 0.30588235,
+                  "b": 0.51764706,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.94117647,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 1.0,
+                  "g": 0.66666667,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.29019608,
+                  "g": 0.1372549,
+                  "b": 0.05490196,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.45882353,
+                  "g": 0.30588235,
+                  "b": 0.51764706,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              },
+              "return": {
+                "fill": {
+                  "r": 1.0,
+                  "g": 0.66666667,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.29019608,
+                  "g": 0.1372549,
+                  "b": 0.05490196,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 1.0,
+                  "g": 0.66666667,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.29019608,
+                  "g": 0.1372549,
+                  "b": 0.05490196,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 1.0,
+                  "g": 0.66666667,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              },
+              "space": {
+                "fill": {
+                  "r": 0.21960784,
+                  "g": 0.35294118,
+                  "b": 0.3254902,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.85098039,
+                  "g": 0.97647059,
+                  "b": 0.87058824,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.21960784,
+                  "g": 0.35294118,
+                  "b": 0.3254902,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.85098039,
+                  "g": 0.97647059,
+                  "b": 0.87058824,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.21960784,
+                  "g": 0.35294118,
+                  "b": 0.3254902,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.45882353,
+                  "g": 0.30588235,
+                  "b": 0.51764706,
+                  "a": 1
+                },
+                "text": {
+                  "r": 1.0,
+                  "g": 0.94117647,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.45882353,
+                  "g": 0.30588235,
+                  "b": 0.51764706,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 1.0,
+                  "g": 0.94117647,
+                  "b": 1.0,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 1.0,
+                  "g": 0.66666667,
+                  "b": 0.37254902,
+                  "a": 1
+                },
+                "cornerRadius": 13
+              }
+            },
+            "backgroundEffect": {
+              "style": "bubbles",
+              "speed": 0.35,
+              "intensity": 0.26,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 1.0,
+                "g": 0.66666667,
+                "b": 0.37254902,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.21960784,
+                "g": 0.35294118,
+                "b": 0.3254902,
+                "a": 1
+              }
+            }
+          }
+        ]
+      },
+      "asset": {
+        "path": "halloween-candy-coven.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-events/releases/download/themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865/halloween-candy-coven.clinktheme",
+        "sha256": "c5a213b651ef84faa7343016fbcd2d82143cd9215fb6fbfa0259700a85174731",
+        "byteCount": 18079
+      },
+      "platform": "both"
+    },
+    {
+      "id": "halloween-haunted-conservatory",
+      "name": "Haunted Conservatory",
+      "version": "themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865",
+      "preview": {
+        "id": "halloween-haunted-conservatory",
+        "name": "Haunted Conservatory",
+        "source": "eventsRepository",
+        "isDark": false,
+        "background": {
+          "r": 0.85098039,
+          "g": 0.8745098,
+          "b": 0.79607843,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.94509804,
+          "g": 0.94117647,
+          "b": 0.85098039,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.18039216,
+          "g": 0.29803922,
+          "b": 0.23921569,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.70196078,
+          "g": 0.76862745,
+          "b": 0.64705882,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.14901961,
+          "g": 0.24705882,
+          "b": 0.19215686,
+          "a": 1
+        },
+        "suggestionText": {
+          "r": 0.18039216,
+          "g": 0.29803922,
+          "b": 0.23921569,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.24705882,
+          "g": 0.39607843,
+          "b": 0.31372549,
+          "a": 1
+        },
+        "material": "3d",
+        "threeDVariant": "neowriter",
+        "keySurfaceMaterial": "grain",
+        "liquidGlass": false,
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyCapShape": "rect",
+        "grainDensity": 0.65,
+        "grainSize": 0.5,
+        "grainStrength": 0.035,
+        "glossStrength": 0.55,
+        "glossSpread": 0.32,
+        "mechanicalFaceInset": 2.4,
+        "mechanicalInnerRadius": 8,
+        "mechanicalRaised": true,
+        "mechanicalShowEdges": true,
+        "bevelDepth": 2.2,
+        "bevelLightAngle": 315,
+        "neumorphicDepth": 2,
+        "neumorphicSoftness": 4,
+        "neumorphicStrength": 0.55,
+        "neowriterRimWidth": 1.2,
+        "neowriterRingWidth": 0.6,
+        "neowriterRingInset": 1.2,
+        "neowriterDepth": 2,
+        "neowriterSoftness": 1.5,
+        "neowriterRimColor": {
+          "r": 0.84705882,
+          "g": 0.73333333,
+          "b": 0.49019608,
+          "a": 1
+        },
+        "neowriterRingColor": {
+          "r": 0.24705882,
+          "g": 0.39607843,
+          "b": 0.31372549,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 135,
+          "stops": [
+            {
+              "position": 0,
+              "color": {
+                "r": 0.85098039,
+                "g": 0.8745098,
+                "b": 0.79607843,
+                "a": 1
+              }
+            },
+            {
+              "position": 1,
+              "color": {
+                "r": 0.71372549,
+                "g": 0.78431373,
+                "b": 0.70980392,
+                "a": 1
+              }
+            }
+          ]
+        },
+        "groupPaint": {
+          "letters": {
+            "cornerRadius": 10
+          },
+          "numbers": {
+            "cornerRadius": 10
+          },
+          "punctuation": {
+            "cornerRadius": 10
+          },
+          "modifiers": {
+            "fill": {
+              "r": 0.70196078,
+              "g": 0.76862745,
+              "b": 0.64705882,
+              "a": 1
+            },
+            "text": {
+              "r": 0.14901961,
+              "g": 0.24705882,
+              "b": 0.19215686,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.24705882,
+              "g": 0.39607843,
+              "b": 0.31372549,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.96078431,
+              "g": 0.94901961,
+              "b": 0.81960784,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.70196078,
+              "g": 0.76862745,
+              "b": 0.64705882,
+              "a": 1
+            },
+            "cornerRadius": 10
+          },
+          "return": {
+            "fill": {
+              "r": 0.24705882,
+              "g": 0.39607843,
+              "b": 0.31372549,
+              "a": 1
+            },
+            "text": {
+              "r": 0.96078431,
+              "g": 0.94901961,
+              "b": 0.81960784,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.24705882,
+              "g": 0.39607843,
+              "b": 0.31372549,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.96078431,
+              "g": 0.94901961,
+              "b": 0.81960784,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.24705882,
+              "g": 0.39607843,
+              "b": 0.31372549,
+              "a": 1
+            },
+            "cornerRadius": 10
+          },
+          "space": {
+            "fill": {
+              "r": 0.84705882,
+              "g": 0.73333333,
+              "b": 0.49019608,
+              "a": 1
+            },
+            "text": {
+              "r": 0.29019608,
+              "g": 0.21568627,
+              "b": 0.10588235,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.84705882,
+              "g": 0.73333333,
+              "b": 0.49019608,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.29019608,
+              "g": 0.21568627,
+              "b": 0.10588235,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.84705882,
+              "g": 0.73333333,
+              "b": 0.49019608,
+              "a": 1
+            },
+            "cornerRadius": 10
+          },
+          "backspace": {
+            "fill": {
+              "r": 0.70196078,
+              "g": 0.76862745,
+              "b": 0.64705882,
+              "a": 1
+            },
+            "text": {
+              "r": 0.14901961,
+              "g": 0.24705882,
+              "b": 0.19215686,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.70196078,
+              "g": 0.76862745,
+              "b": 0.64705882,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.14901961,
+              "g": 0.24705882,
+              "b": 0.19215686,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.24705882,
+              "g": 0.39607843,
+              "b": 0.31372549,
+              "a": 1
+            },
+            "cornerRadius": 10
+          }
+        },
+        "backgroundEffect": {
+          "style": "fireflies",
+          "speed": 0.35,
+          "intensity": 0.12,
+          "density": 0.22,
+          "scale": 0.7,
+          "reactive": true,
+          "reactionStrength": 0.35,
+          "blend": "glow",
+          "colorMode": "custom",
+          "customColor": {
+            "r": 0.24705882,
+            "g": 0.39607843,
+            "b": 0.31372549,
+            "a": 1
+          },
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.84705882,
+            "g": 0.73333333,
+            "b": 0.49019608,
+            "a": 1
+          }
+        },
+        "pairedVariants": [
+          {
+            "id": "halloween-haunted-conservatory",
+            "name": "Haunted Conservatory",
+            "source": "eventsRepository",
+            "isDark": false,
+            "background": {
+              "r": 0.85098039,
+              "g": 0.8745098,
+              "b": 0.79607843,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.94509804,
+              "g": 0.94117647,
+              "b": 0.85098039,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.18039216,
+              "g": 0.29803922,
+              "b": 0.23921569,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.70196078,
+              "g": 0.76862745,
+              "b": 0.64705882,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.14901961,
+              "g": 0.24705882,
+              "b": 0.19215686,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.18039216,
+              "g": 0.29803922,
+              "b": 0.23921569,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.24705882,
+              "g": 0.39607843,
+              "b": 0.31372549,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "neowriter",
+            "keySurfaceMaterial": "grain",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 8,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.84705882,
+              "g": 0.73333333,
+              "b": 0.49019608,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.24705882,
+              "g": 0.39607843,
+              "b": 0.31372549,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.85098039,
+                    "g": 0.8745098,
+                    "b": 0.79607843,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.71372549,
+                    "g": 0.78431373,
+                    "b": 0.70980392,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 10
+              },
+              "numbers": {
+                "cornerRadius": 10
+              },
+              "punctuation": {
+                "cornerRadius": 10
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.70196078,
+                  "g": 0.76862745,
+                  "b": 0.64705882,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.14901961,
+                  "g": 0.24705882,
+                  "b": 0.19215686,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.24705882,
+                  "g": 0.39607843,
+                  "b": 0.31372549,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.96078431,
+                  "g": 0.94901961,
+                  "b": 0.81960784,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.70196078,
+                  "g": 0.76862745,
+                  "b": 0.64705882,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              },
+              "return": {
+                "fill": {
+                  "r": 0.24705882,
+                  "g": 0.39607843,
+                  "b": 0.31372549,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.96078431,
+                  "g": 0.94901961,
+                  "b": 0.81960784,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.24705882,
+                  "g": 0.39607843,
+                  "b": 0.31372549,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.96078431,
+                  "g": 0.94901961,
+                  "b": 0.81960784,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.24705882,
+                  "g": 0.39607843,
+                  "b": 0.31372549,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              },
+              "space": {
+                "fill": {
+                  "r": 0.84705882,
+                  "g": 0.73333333,
+                  "b": 0.49019608,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.29019608,
+                  "g": 0.21568627,
+                  "b": 0.10588235,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.84705882,
+                  "g": 0.73333333,
+                  "b": 0.49019608,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.29019608,
+                  "g": 0.21568627,
+                  "b": 0.10588235,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.84705882,
+                  "g": 0.73333333,
+                  "b": 0.49019608,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.70196078,
+                  "g": 0.76862745,
+                  "b": 0.64705882,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.14901961,
+                  "g": 0.24705882,
+                  "b": 0.19215686,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.70196078,
+                  "g": 0.76862745,
+                  "b": 0.64705882,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.14901961,
+                  "g": 0.24705882,
+                  "b": 0.19215686,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.24705882,
+                  "g": 0.39607843,
+                  "b": 0.31372549,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              }
+            },
+            "backgroundEffect": {
+              "style": "fireflies",
+              "speed": 0.35,
+              "intensity": 0.12,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.24705882,
+                "g": 0.39607843,
+                "b": 0.31372549,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.84705882,
+                "g": 0.73333333,
+                "b": 0.49019608,
+                "a": 1
+              }
+            }
+          },
+          {
+            "id": "halloween-haunted-conservatory",
+            "name": "Haunted Conservatory",
+            "source": "eventsRepository",
+            "isDark": true,
+            "background": {
+              "r": 0.05882353,
+              "g": 0.1254902,
+              "b": 0.10588235,
+              "a": 1
+            },
+            "keyFill": {
+              "r": 0.14509804,
+              "g": 0.24313725,
+              "b": 0.19607843,
+              "a": 1
+            },
+            "keyText": {
+              "r": 0.8745098,
+              "g": 0.91764706,
+              "b": 0.8,
+              "a": 1
+            },
+            "specialKeyFill": {
+              "r": 0.22745098,
+              "g": 0.33333333,
+              "b": 0.25098039,
+              "a": 1
+            },
+            "specialKeyText": {
+              "r": 0.92156863,
+              "g": 0.94509804,
+              "b": 0.81176471,
+              "a": 1
+            },
+            "suggestionText": {
+              "r": 0.8745098,
+              "g": 0.91764706,
+              "b": 0.8,
+              "a": 1
+            },
+            "accent": {
+              "r": 0.85098039,
+              "g": 0.75686275,
+              "b": 0.49411765,
+              "a": 1
+            },
+            "material": "3d",
+            "threeDVariant": "neowriter",
+            "keySurfaceMaterial": "grain",
+            "liquidGlass": false,
+            "keyFontDesign": "default",
+            "keyFontWeight": "medium",
+            "keyCapShape": "rect",
+            "grainDensity": 0.65,
+            "grainSize": 0.5,
+            "grainStrength": 0.035,
+            "glossStrength": 0.55,
+            "glossSpread": 0.32,
+            "mechanicalFaceInset": 2.4,
+            "mechanicalInnerRadius": 8,
+            "mechanicalRaised": true,
+            "mechanicalShowEdges": true,
+            "bevelDepth": 2.2,
+            "bevelLightAngle": 315,
+            "neumorphicDepth": 2,
+            "neumorphicSoftness": 4,
+            "neumorphicStrength": 0.55,
+            "neowriterRimWidth": 1.2,
+            "neowriterRingWidth": 0.6,
+            "neowriterRingInset": 1.2,
+            "neowriterDepth": 2,
+            "neowriterSoftness": 1.5,
+            "neowriterRimColor": {
+              "r": 0.34509804,
+              "g": 0.29411765,
+              "b": 0.19215686,
+              "a": 1
+            },
+            "neowriterRingColor": {
+              "r": 0.85098039,
+              "g": 0.75686275,
+              "b": 0.49411765,
+              "a": 1
+            },
+            "backgroundGradient": {
+              "type": "linear",
+              "rotation": 135,
+              "stops": [
+                {
+                  "position": 0,
+                  "color": {
+                    "r": 0.05882353,
+                    "g": 0.1254902,
+                    "b": 0.10588235,
+                    "a": 1
+                  }
+                },
+                {
+                  "position": 1,
+                  "color": {
+                    "r": 0.11372549,
+                    "g": 0.21176471,
+                    "b": 0.16078431,
+                    "a": 1
+                  }
+                }
+              ]
+            },
+            "groupPaint": {
+              "letters": {
+                "cornerRadius": 10
+              },
+              "numbers": {
+                "cornerRadius": 10
+              },
+              "punctuation": {
+                "cornerRadius": 10
+              },
+              "modifiers": {
+                "fill": {
+                  "r": 0.22745098,
+                  "g": 0.33333333,
+                  "b": 0.25098039,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.92156863,
+                  "g": 0.94509804,
+                  "b": 0.81176471,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.85098039,
+                  "g": 0.75686275,
+                  "b": 0.49411765,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.18431373,
+                  "g": 0.17647059,
+                  "b": 0.0745098,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.22745098,
+                  "g": 0.33333333,
+                  "b": 0.25098039,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              },
+              "return": {
+                "fill": {
+                  "r": 0.85098039,
+                  "g": 0.75686275,
+                  "b": 0.49411765,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.18431373,
+                  "g": 0.17647059,
+                  "b": 0.0745098,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.85098039,
+                  "g": 0.75686275,
+                  "b": 0.49411765,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.18431373,
+                  "g": 0.17647059,
+                  "b": 0.0745098,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.85098039,
+                  "g": 0.75686275,
+                  "b": 0.49411765,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              },
+              "space": {
+                "fill": {
+                  "r": 0.34509804,
+                  "g": 0.29411765,
+                  "b": 0.19215686,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.97647059,
+                  "g": 0.90980392,
+                  "b": 0.7372549,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.34509804,
+                  "g": 0.29411765,
+                  "b": 0.19215686,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.97647059,
+                  "g": 0.90980392,
+                  "b": 0.7372549,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.34509804,
+                  "g": 0.29411765,
+                  "b": 0.19215686,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              },
+              "backspace": {
+                "fill": {
+                  "r": 0.22745098,
+                  "g": 0.33333333,
+                  "b": 0.25098039,
+                  "a": 1
+                },
+                "text": {
+                  "r": 0.92156863,
+                  "g": 0.94509804,
+                  "b": 0.81176471,
+                  "a": 1
+                },
+                "activeFill": {
+                  "r": 0.22745098,
+                  "g": 0.33333333,
+                  "b": 0.25098039,
+                  "a": 1
+                },
+                "activeText": {
+                  "r": 0.92156863,
+                  "g": 0.94509804,
+                  "b": 0.81176471,
+                  "a": 1
+                },
+                "pressed": {
+                  "r": 0.85098039,
+                  "g": 0.75686275,
+                  "b": 0.49411765,
+                  "a": 1
+                },
+                "cornerRadius": 10
+              }
+            },
+            "backgroundEffect": {
+              "style": "fireflies",
+              "speed": 0.35,
+              "intensity": 0.26,
+              "density": 0.22,
+              "scale": 0.7,
+              "reactive": true,
+              "reactionStrength": 0.35,
+              "blend": "glow",
+              "colorMode": "custom",
+              "customColor": {
+                "r": 0.85098039,
+                "g": 0.75686275,
+                "b": 0.49411765,
+                "a": 1
+              },
+              "secondaryColorMode": "custom",
+              "customColor2": {
+                "r": 0.34509804,
+                "g": 0.29411765,
+                "b": 0.19215686,
+                "a": 1
+              }
+            }
+          }
+        ]
+      },
+      "asset": {
+        "path": "halloween-haunted-conservatory.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes-events/releases/download/themes-dbc1055ac30e908bd415f9d0045333395a10aa178bf6e7e8a1e3452b230ad865/halloween-haunted-conservatory.clinktheme",
+        "sha256": "036b5052204da0b6c4b4099fc8cff79508a902fe5db1c93f88c751c6104d9096",
+        "byteCount": 18311
+      },
+      "platform": "both"
+    }
+  ]
+}

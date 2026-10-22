@@ -1,0 +1,226 @@
+{
+  "themes": [
+    {
+      "id": "halloween-jack-o-lantern",
+      "name": "Jack-o’-Lantern",
+      "description": "Carved amber keycaps, toasted pumpkin and ember-black shadows.",
+      "event": "Halloween",
+      "style": {
+        "material": "3d",
+        "threeDVariant": "mechanical",
+        "keySurfaceMaterial": "grain",
+        "effect": "embers",
+        "cornerRadius": 8
+      },
+      "light": {
+        "background": "#F1DFC3",
+        "keyFill": "#FFE9C7",
+        "keyText": "#593018",
+        "specialKeyFill": "#D88A43",
+        "specialKeyText": "#44220D",
+        "returnFill": "#A84312",
+        "returnText": "#FFF5DF",
+        "secondaryFill": "#83946B",
+        "secondaryText": "#1B2715",
+        "backgroundEnd": "#DBAD7A"
+      },
+      "dark": {
+        "background": "#19130F",
+        "keyFill": "#433026",
+        "keyText": "#FFD49A",
+        "specialKeyFill": "#693C20",
+        "specialKeyText": "#FFE2AF",
+        "returnFill": "#FF9B39",
+        "returnText": "#341804",
+        "secondaryFill": "#334532",
+        "secondaryText": "#D0E8A6",
+        "backgroundEnd": "#342018"
+      }
+    },
+    {
+      "id": "halloween-witching-hour",
+      "name": "Witching Hour",
+      "description": "Amethyst lacquer, spellbook violet and a sharp flash of potion green.",
+      "event": "Halloween",
+      "style": {
+        "material": "3d",
+        "threeDVariant": "bevel",
+        "keySurfaceMaterial": "gloss",
+        "effect": "nebula",
+        "cornerRadius": 7
+      },
+      "light": {
+        "background": "#E4DAF0",
+        "keyFill": "#F4EDFF",
+        "keyText": "#382451",
+        "specialKeyFill": "#C8B2E6",
+        "specialKeyText": "#382451",
+        "returnFill": "#5F397F",
+        "returnText": "#F6FBCF",
+        "secondaryFill": "#C4D779",
+        "secondaryText": "#28310F",
+        "backgroundEnd": "#C7B6DF"
+      },
+      "dark": {
+        "background": "#120E20",
+        "keyFill": "#302341",
+        "keyText": "#E5D4FA",
+        "specialKeyFill": "#49315F",
+        "specialKeyText": "#F2D9FF",
+        "returnFill": "#D5EE83",
+        "returnText": "#25320F",
+        "secondaryFill": "#6C467C",
+        "secondaryText": "#F9E5FF",
+        "backgroundEnd": "#241635"
+      }
+    },
+    {
+      "id": "halloween-ghostlight",
+      "name": "Ghostlight",
+      "description": "Moon-white porcelain, spectral teal and a cold blue midnight glow.",
+      "event": "Halloween",
+      "style": {
+        "material": "3d",
+        "threeDVariant": "neumorphic",
+        "keySurfaceMaterial": "normal",
+        "effect": "aurora",
+        "cornerRadius": 12
+      },
+      "light": {
+        "background": "#D9E9E7",
+        "keyFill": "#F0F9F4",
+        "keyText": "#254F55",
+        "specialKeyFill": "#B8D6D6",
+        "specialKeyText": "#244C54",
+        "returnFill": "#356B77",
+        "returnText": "#F1FEFC",
+        "secondaryFill": "#B6C7E8",
+        "secondaryText": "#253858",
+        "backgroundEnd": "#BBCEDC"
+      },
+      "dark": {
+        "background": "#0E1C26",
+        "keyFill": "#233747",
+        "keyText": "#D9FAF1",
+        "specialKeyFill": "#304F59",
+        "specialKeyText": "#CFFAF1",
+        "returnFill": "#A4E5D5",
+        "returnText": "#153D3B",
+        "secondaryFill": "#3B4661",
+        "secondaryText": "#E0E8FF",
+        "backgroundEnd": "#1C3042"
+      }
+    },
+    {
+      "id": "halloween-vampire-velvet",
+      "name": "Vampire Velvet",
+      "description": "Ivory legends, oxblood upholstery and antique champagne metal.",
+      "event": "Halloween",
+      "style": {
+        "material": "3d",
+        "threeDVariant": "mechanical",
+        "keySurfaceMaterial": "grain",
+        "effect": "bokeh",
+        "cornerRadius": 5
+      },
+      "light": {
+        "background": "#E4D5CC",
+        "keyFill": "#FFF0DF",
+        "keyText": "#4B2532",
+        "specialKeyFill": "#925B68",
+        "specialKeyText": "#FFF5E7",
+        "returnFill": "#74243C",
+        "returnText": "#FFF0DD",
+        "secondaryFill": "#CBB48D",
+        "secondaryText": "#45331D",
+        "backgroundEnd": "#CAB3AC"
+      },
+      "dark": {
+        "background": "#1B0C14",
+        "keyFill": "#40212F",
+        "keyText": "#F5E1CA",
+        "specialKeyFill": "#67253E",
+        "specialKeyText": "#FFE3D9",
+        "returnFill": "#D9B97C",
+        "returnText": "#35200E",
+        "secondaryFill": "#3D3440",
+        "secondaryText": "#E9CBD9",
+        "backgroundEnd": "#32121F"
+      }
+    },
+    {
+      "id": "halloween-candy-coven",
+      "name": "Candy Coven",
+      "description": "Sugar-shell lilac, tangerine sweets and wicked blackberry gloss.",
+      "event": "Halloween",
+      "style": {
+        "material": "bubble",
+        "threeDVariant": "retro",
+        "keySurfaceMaterial": "gloss",
+        "effect": "bubbles",
+        "cornerRadius": 13
+      },
+      "light": {
+        "background": "#F4DDE4",
+        "keyFill": "#FFF0D9",
+        "keyText": "#5B3648",
+        "specialKeyFill": "#D4B2E5",
+        "specialKeyText": "#442A5D",
+        "returnFill": "#BB5024",
+        "returnText": "#FFF5DE",
+        "secondaryFill": "#ACCEB6",
+        "secondaryText": "#294A37",
+        "backgroundEnd": "#DDD0F1"
+      },
+      "dark": {
+        "background": "#231225",
+        "keyFill": "#4F315A",
+        "keyText": "#FFE8F6",
+        "specialKeyFill": "#754E84",
+        "specialKeyText": "#FFF0FF",
+        "returnFill": "#FFAA5F",
+        "returnText": "#4A230E",
+        "secondaryFill": "#385A53",
+        "secondaryText": "#D9F9DE",
+        "backgroundEnd": "#391C3D"
+      }
+    },
+    {
+      "id": "halloween-haunted-conservatory",
+      "name": "Haunted Conservatory",
+      "description": "Botanical jade, weathered brass and luminous spores after midnight.",
+      "event": "Halloween",
+      "style": {
+        "material": "3d",
+        "threeDVariant": "neowriter",
+        "keySurfaceMaterial": "grain",
+        "effect": "fireflies",
+        "cornerRadius": 10
+      },
+      "light": {
+        "background": "#D9DFCB",
+        "keyFill": "#F1F0D9",
+        "keyText": "#2E4C3D",
+        "specialKeyFill": "#B3C4A5",
+        "specialKeyText": "#263F31",
+        "returnFill": "#3F6550",
+        "returnText": "#F5F2D1",
+        "secondaryFill": "#D8BB7D",
+        "secondaryText": "#4A371B",
+        "backgroundEnd": "#B6C8B5"
+      },
+      "dark": {
+        "background": "#0F201B",
+        "keyFill": "#253E32",
+        "keyText": "#DFEACC",
+        "specialKeyFill": "#3A5540",
+        "specialKeyText": "#EBF1CF",
+        "returnFill": "#D9C17E",
+        "returnText": "#2F2D13",
+        "secondaryFill": "#584B31",
+        "secondaryText": "#F9E8BC",
+        "backgroundEnd": "#1D3629"
+      }
+    }
+  ]
+}

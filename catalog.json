@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "name": "Events",
+  "themes": [
+    "Themes/halloween-jack-o-lantern.clinktheme",
+    "Themes/halloween-witching-hour.clinktheme",
+    "Themes/halloween-ghostlight.clinktheme",
+    "Themes/halloween-vampire-velvet.clinktheme",
+    "Themes/halloween-candy-coven.clinktheme",
+    "Themes/halloween-haunted-conservatory.clinktheme"
+  ]
+}

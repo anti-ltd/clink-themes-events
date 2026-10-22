@@ -1,0 +1,833 @@
+{
+  "id": "halloween-candy-coven",
+  "name": "Candy Coven",
+  "source": "eventsRepository",
+  "isDark": false,
+  "background": {
+    "r": 0.95686275,
+    "g": 0.86666667,
+    "b": 0.89411765,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 1.0,
+    "g": 0.94117647,
+    "b": 0.85098039,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.35686275,
+    "g": 0.21176471,
+    "b": 0.28235294,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.83137255,
+    "g": 0.69803922,
+    "b": 0.89803922,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.26666667,
+    "g": 0.16470588,
+    "b": 0.36470588,
+    "a": 1
+  },
+  "suggestionText": {
+    "r": 0.35686275,
+    "g": 0.21176471,
+    "b": 0.28235294,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.73333333,
+    "g": 0.31372549,
+    "b": 0.14117647,
+    "a": 1
+  },
+  "material": "bubble",
+  "threeDVariant": "retro",
+  "keySurfaceMaterial": "gloss",
+  "liquidGlass": false,
+  "keyFontDesign": "rounded",
+  "keyFontWeight": "medium",
+  "keyCapShape": "rect",
+  "grainDensity": 0.65,
+  "grainSize": 0.5,
+  "grainStrength": 0.035,
+  "glossStrength": 0.55,
+  "glossSpread": 0.32,
+  "mechanicalFaceInset": 2.4,
+  "mechanicalInnerRadius": 11,
+  "mechanicalRaised": true,
+  "mechanicalShowEdges": true,
+  "bevelDepth": 2.2,
+  "bevelLightAngle": 315,
+  "neumorphicDepth": 2,
+  "neumorphicSoftness": 4,
+  "neumorphicStrength": 0.55,
+  "neowriterRimWidth": 1.2,
+  "neowriterRingWidth": 0.6,
+  "neowriterRingInset": 1.2,
+  "neowriterDepth": 2,
+  "neowriterSoftness": 1.5,
+  "neowriterRimColor": {
+    "r": 0.6745098,
+    "g": 0.80784314,
+    "b": 0.71372549,
+    "a": 1
+  },
+  "neowriterRingColor": {
+    "r": 0.73333333,
+    "g": 0.31372549,
+    "b": 0.14117647,
+    "a": 1
+  },
+  "backgroundGradient": {
+    "type": "linear",
+    "rotation": 135,
+    "stops": [
+      {
+        "position": 0,
+        "color": {
+          "r": 0.95686275,
+          "g": 0.86666667,
+          "b": 0.89411765,
+          "a": 1
+        }
+      },
+      {
+        "position": 1,
+        "color": {
+          "r": 0.86666667,
+          "g": 0.81568627,
+          "b": 0.94509804,
+          "a": 1
+        }
+      }
+    ]
+  },
+  "groupPaint": {
+    "letters": {
+      "cornerRadius": 13
+    },
+    "numbers": {
+      "cornerRadius": 13
+    },
+    "punctuation": {
+      "cornerRadius": 13
+    },
+    "modifiers": {
+      "fill": {
+        "r": 0.83137255,
+        "g": 0.69803922,
+        "b": 0.89803922,
+        "a": 1
+      },
+      "text": {
+        "r": 0.26666667,
+        "g": 0.16470588,
+        "b": 0.36470588,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.73333333,
+        "g": 0.31372549,
+        "b": 0.14117647,
+        "a": 1
+      },
+      "activeText": {
+        "r": 1.0,
+        "g": 0.96078431,
+        "b": 0.87058824,
+        "a": 1
+      },
+      "pressed": {
+        "r": 0.83137255,
+        "g": 0.69803922,
+        "b": 0.89803922,
+        "a": 1
+      },
+      "cornerRadius": 13
+    },
+    "return": {
+      "fill": {
+        "r": 0.73333333,
+        "g": 0.31372549,
+        "b": 0.14117647,
+        "a": 1
+      },
+      "text": {
+        "r": 1.0,
+        "g": 0.96078431,
+        "b": 0.87058824,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.73333333,
+        "g": 0.31372549,
+        "b": 0.14117647,
+        "a": 1
+      },
+      "activeText": {
+        "r": 1.0,
+        "g": 0.96078431,
+        "b": 0.87058824,
+        "a": 1
+      },
+      "pressed": {
+        "r": 0.73333333,
+        "g": 0.31372549,
+        "b": 0.14117647,
+        "a": 1
+      },
+      "cornerRadius": 13
+    },
+    "space": {
+      "fill": {
+        "r": 0.6745098,
+        "g": 0.80784314,
+        "b": 0.71372549,
+        "a": 1
+      },
+      "text": {
+        "r": 0.16078431,
+        "g": 0.29019608,
+        "b": 0.21568627,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.6745098,
+        "g": 0.80784314,
+        "b": 0.71372549,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.16078431,
+        "g": 0.29019608,
+        "b": 0.21568627,
+        "a": 1
+      },
+      "pressed": {
+        "r": 0.6745098,
+        "g": 0.80784314,
+        "b": 0.71372549,
+        "a": 1
+      },
+      "cornerRadius": 13
+    },
+    "backspace": {
+      "fill": {
+        "r": 0.83137255,
+        "g": 0.69803922,
+        "b": 0.89803922,
+        "a": 1
+      },
+      "text": {
+        "r": 0.26666667,
+        "g": 0.16470588,
+        "b": 0.36470588,
+        "a": 1
+      },
+      "activeFill": {
+        "r": 0.83137255,
+        "g": 0.69803922,
+        "b": 0.89803922,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.26666667,
+        "g": 0.16470588,
+        "b": 0.36470588,
+        "a": 1
+      },
+      "pressed": {
+        "r": 0.73333333,
+        "g": 0.31372549,
+        "b": 0.14117647,
+        "a": 1
+      },
+      "cornerRadius": 13
+    }
+  },
+  "backgroundEffect": {
+    "style": "bubbles",
+    "speed": 0.35,
+    "intensity": 0.12,
+    "density": 0.22,
+    "scale": 0.7,
+    "reactive": true,
+    "reactionStrength": 0.35,
+    "blend": "glow",
+    "colorMode": "custom",
+    "customColor": {
+      "r": 0.73333333,
+      "g": 0.31372549,
+      "b": 0.14117647,
+      "a": 1
+    },
+    "secondaryColorMode": "custom",
+    "customColor2": {
+      "r": 0.6745098,
+      "g": 0.80784314,
+      "b": 0.71372549,
+      "a": 1
+    }
+  },
+  "pairedVariants": [
+    {
+      "id": "halloween-candy-coven",
+      "name": "Candy Coven",
+      "source": "eventsRepository",
+      "isDark": false,
+      "background": {
+        "r": 0.95686275,
+        "g": 0.86666667,
+        "b": 0.89411765,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 1.0,
+        "g": 0.94117647,
+        "b": 0.85098039,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.35686275,
+        "g": 0.21176471,
+        "b": 0.28235294,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.83137255,
+        "g": 0.69803922,
+        "b": 0.89803922,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.26666667,
+        "g": 0.16470588,
+        "b": 0.36470588,
+        "a": 1
+      },
+      "suggestionText": {
+        "r": 0.35686275,
+        "g": 0.21176471,
+        "b": 0.28235294,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.73333333,
+        "g": 0.31372549,
+        "b": 0.14117647,
+        "a": 1
+      },
+      "material": "bubble",
+      "threeDVariant": "retro",
+      "keySurfaceMaterial": "gloss",
+      "liquidGlass": false,
+      "keyFontDesign": "rounded",
+      "keyFontWeight": "medium",
+      "keyCapShape": "rect",
+      "grainDensity": 0.65,
+      "grainSize": 0.5,
+      "grainStrength": 0.035,
+      "glossStrength": 0.55,
+      "glossSpread": 0.32,
+      "mechanicalFaceInset": 2.4,
+      "mechanicalInnerRadius": 11,
+      "mechanicalRaised": true,
+      "mechanicalShowEdges": true,
+      "bevelDepth": 2.2,
+      "bevelLightAngle": 315,
+      "neumorphicDepth": 2,
+      "neumorphicSoftness": 4,
+      "neumorphicStrength": 0.55,
+      "neowriterRimWidth": 1.2,
+      "neowriterRingWidth": 0.6,
+      "neowriterRingInset": 1.2,
+      "neowriterDepth": 2,
+      "neowriterSoftness": 1.5,
+      "neowriterRimColor": {
+        "r": 0.6745098,
+        "g": 0.80784314,
+        "b": 0.71372549,
+        "a": 1
+      },
+      "neowriterRingColor": {
+        "r": 0.73333333,
+        "g": 0.31372549,
+        "b": 0.14117647,
+        "a": 1
+      },
+      "backgroundGradient": {
+        "type": "linear",
+        "rotation": 135,
+        "stops": [
+          {
+            "position": 0,
+            "color": {
+              "r": 0.95686275,
+              "g": 0.86666667,
+              "b": 0.89411765,
+              "a": 1
+            }
+          },
+          {
+            "position": 1,
+            "color": {
+              "r": 0.86666667,
+              "g": 0.81568627,
+              "b": 0.94509804,
+              "a": 1
+            }
+          }
+        ]
+      },
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 13
+        },
+        "numbers": {
+          "cornerRadius": 13
+        },
+        "punctuation": {
+          "cornerRadius": 13
+        },
+        "modifiers": {
+          "fill": {
+            "r": 0.83137255,
+            "g": 0.69803922,
+            "b": 0.89803922,
+            "a": 1
+          },
+          "text": {
+            "r": 0.26666667,
+            "g": 0.16470588,
+            "b": 0.36470588,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.73333333,
+            "g": 0.31372549,
+            "b": 0.14117647,
+            "a": 1
+          },
+          "activeText": {
+            "r": 1.0,
+            "g": 0.96078431,
+            "b": 0.87058824,
+            "a": 1
+          },
+          "pressed": {
+            "r": 0.83137255,
+            "g": 0.69803922,
+            "b": 0.89803922,
+            "a": 1
+          },
+          "cornerRadius": 13
+        },
+        "return": {
+          "fill": {
+            "r": 0.73333333,
+            "g": 0.31372549,
+            "b": 0.14117647,
+            "a": 1
+          },
+          "text": {
+            "r": 1.0,
+            "g": 0.96078431,
+            "b": 0.87058824,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.73333333,
+            "g": 0.31372549,
+            "b": 0.14117647,
+            "a": 1
+          },
+          "activeText": {
+            "r": 1.0,
+            "g": 0.96078431,
+            "b": 0.87058824,
+            "a": 1
+          },
+          "pressed": {
+            "r": 0.73333333,
+            "g": 0.31372549,
+            "b": 0.14117647,
+            "a": 1
+          },
+          "cornerRadius": 13
+        },
+        "space": {
+          "fill": {
+            "r": 0.6745098,
+            "g": 0.80784314,
+            "b": 0.71372549,
+            "a": 1
+          },
+          "text": {
+            "r": 0.16078431,
+            "g": 0.29019608,
+            "b": 0.21568627,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.6745098,
+            "g": 0.80784314,
+            "b": 0.71372549,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.16078431,
+            "g": 0.29019608,
+            "b": 0.21568627,
+            "a": 1
+          },
+          "pressed": {
+            "r": 0.6745098,
+            "g": 0.80784314,
+            "b": 0.71372549,
+            "a": 1
+          },
+          "cornerRadius": 13
+        },
+        "backspace": {
+          "fill": {
+            "r": 0.83137255,
+            "g": 0.69803922,
+            "b": 0.89803922,
+            "a": 1
+          },
+          "text": {
+            "r": 0.26666667,
+            "g": 0.16470588,
+            "b": 0.36470588,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.83137255,
+            "g": 0.69803922,
+            "b": 0.89803922,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.26666667,
+            "g": 0.16470588,
+            "b": 0.36470588,
+            "a": 1
+          },
+          "pressed": {
+            "r": 0.73333333,
+            "g": 0.31372549,
+            "b": 0.14117647,
+            "a": 1
+          },
+          "cornerRadius": 13
+        }
+      },
+      "backgroundEffect": {
+        "style": "bubbles",
+        "speed": 0.35,
+        "intensity": 0.12,
+        "density": 0.22,
+        "scale": 0.7,
+        "reactive": true,
+        "reactionStrength": 0.35,
+        "blend": "glow",
+        "colorMode": "custom",
+        "customColor": {
+          "r": 0.73333333,
+          "g": 0.31372549,
+          "b": 0.14117647,
+          "a": 1
+        },
+        "secondaryColorMode": "custom",
+        "customColor2": {
+          "r": 0.6745098,
+          "g": 0.80784314,
+          "b": 0.71372549,
+          "a": 1
+        }
+      }
+    },
+    {
+      "id": "halloween-candy-coven",
+      "name": "Candy Coven",
+      "source": "eventsRepository",
+      "isDark": true,
+      "background": {
+        "r": 0.1372549,
+        "g": 0.07058824,
+        "b": 0.14509804,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.30980392,
+        "g": 0.19215686,
+        "b": 0.35294118,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1.0,
+        "g": 0.90980392,
+        "b": 0.96470588,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.45882353,
+        "g": 0.30588235,
+        "b": 0.51764706,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1.0,
+        "g": 0.94117647,
+        "b": 1.0,
+        "a": 1
+      },
+      "suggestionText": {
+        "r": 1.0,
+        "g": 0.90980392,
+        "b": 0.96470588,
+        "a": 1
+      },
+      "accent": {
+        "r": 1.0,
+        "g": 0.66666667,
+        "b": 0.37254902,
+        "a": 1
+      },
+      "material": "bubble",
+      "threeDVariant": "retro",
+      "keySurfaceMaterial": "gloss",
+      "liquidGlass": false,
+      "keyFontDesign": "rounded",
+      "keyFontWeight": "medium",
+      "keyCapShape": "rect",
+      "grainDensity": 0.65,
+      "grainSize": 0.5,
+      "grainStrength": 0.035,
+      "glossStrength": 0.55,
+      "glossSpread": 0.32,
+      "mechanicalFaceInset": 2.4,
+      "mechanicalInnerRadius": 11,
+      "mechanicalRaised": true,
+      "mechanicalShowEdges": true,
+      "bevelDepth": 2.2,
+      "bevelLightAngle": 315,
+      "neumorphicDepth": 2,
+      "neumorphicSoftness": 4,
+      "neumorphicStrength": 0.55,
+      "neowriterRimWidth": 1.2,
+      "neowriterRingWidth": 0.6,
+      "neowriterRingInset": 1.2,
+      "neowriterDepth": 2,
+      "neowriterSoftness": 1.5,
+      "neowriterRimColor": {
+        "r": 0.21960784,
+        "g": 0.35294118,
+        "b": 0.3254902,
+        "a": 1
+      },
+      "neowriterRingColor": {
+        "r": 1.0,
+        "g": 0.66666667,
+        "b": 0.37254902,
+        "a": 1
+      },
+      "backgroundGradient": {
+        "type": "linear",
+        "rotation": 135,
+        "stops": [
+          {
+            "position": 0,
+            "color": {
+              "r": 0.1372549,
+              "g": 0.07058824,
+              "b": 0.14509804,
+              "a": 1
+            }
+          },
+          {
+            "position": 1,
+            "color": {
+              "r": 0.22352941,
+              "g": 0.10980392,
+              "b": 0.23921569,
+              "a": 1
+            }
+          }
+        ]
+      },
+      "groupPaint": {
+        "letters": {
+          "cornerRadius": 13
+        },
+        "numbers": {
+          "cornerRadius": 13
+        },
+        "punctuation": {
+          "cornerRadius": 13
+        },
+        "modifiers": {
+          "fill": {
+            "r": 0.45882353,
+            "g": 0.30588235,
+            "b": 0.51764706,
+            "a": 1
+          },
+          "text": {
+            "r": 1.0,
+            "g": 0.94117647,
+            "b": 1.0,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 1.0,
+            "g": 0.66666667,
+            "b": 0.37254902,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.29019608,
+            "g": 0.1372549,
+            "b": 0.05490196,
+            "a": 1
+          },
+          "pressed": {
+            "r": 0.45882353,
+            "g": 0.30588235,
+            "b": 0.51764706,
+            "a": 1
+          },
+          "cornerRadius": 13
+        },
+        "return": {
+          "fill": {
+            "r": 1.0,
+            "g": 0.66666667,
+            "b": 0.37254902,
+            "a": 1
+          },
+          "text": {
+            "r": 0.29019608,
+            "g": 0.1372549,
+            "b": 0.05490196,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 1.0,
+            "g": 0.66666667,
+            "b": 0.37254902,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.29019608,
+            "g": 0.1372549,
+            "b": 0.05490196,
+            "a": 1
+          },
+          "pressed": {
+            "r": 1.0,
+            "g": 0.66666667,
+            "b": 0.37254902,
+            "a": 1
+          },
+          "cornerRadius": 13
+        },
+        "space": {
+          "fill": {
+            "r": 0.21960784,
+            "g": 0.35294118,
+            "b": 0.3254902,
+            "a": 1
+          },
+          "text": {
+            "r": 0.85098039,
+            "g": 0.97647059,
+            "b": 0.87058824,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.21960784,
+            "g": 0.35294118,
+            "b": 0.3254902,
+            "a": 1
+          },
+          "activeText": {
+            "r": 0.85098039,
+            "g": 0.97647059,
+            "b": 0.87058824,
+            "a": 1
+          },
+          "pressed": {
+            "r": 0.21960784,
+            "g": 0.35294118,
+            "b": 0.3254902,
+            "a": 1
+          },
+          "cornerRadius": 13
+        },
+        "backspace": {
+          "fill": {
+            "r": 0.45882353,
+            "g": 0.30588235,
+            "b": 0.51764706,
+            "a": 1
+          },
+          "text": {
+            "r": 1.0,
+            "g": 0.94117647,
+            "b": 1.0,
+            "a": 1
+          },
+          "activeFill": {
+            "r": 0.45882353,
+            "g": 0.30588235,
+            "b": 0.51764706,
+            "a": 1
+          },
+          "activeText": {
+            "r": 1.0,
+            "g": 0.94117647,
+            "b": 1.0,
+            "a": 1
+          },
+          "pressed": {
+            "r": 1.0,
+            "g": 0.66666667,
+            "b": 0.37254902,
+            "a": 1
+          },
+          "cornerRadius": 13
+        }
+      },
+      "backgroundEffect": {
+        "style": "bubbles",
+        "speed": 0.35,
+        "intensity": 0.26,
+        "density": 0.22,
+        "scale": 0.7,
+        "reactive": true,
+        "reactionStrength": 0.35,
+        "blend": "glow",
+        "colorMode": "custom",
+        "customColor": {
+          "r": 1.0,
+          "g": 0.66666667,
+          "b": 0.37254902,
+          "a": 1
+        },
+        "secondaryColorMode": "custom",
+        "customColor2": {
+          "r": 0.21960784,
+          "g": 0.35294118,
+          "b": 0.3254902,
+          "a": 1
+        }
+      }
+    }
+  ]
+}
