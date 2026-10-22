@@ -217,9 +217,9 @@
       "cornerRadius": 13,
       "artwork": {
         "imageID": "repo-art-507f8345a3107ec586e7e927f7f2529a7ae641fb2d621425f27500b5bb0c0842",
-        "scale": 0.5,
-        "offsetX": 0,
-        "offsetY": 0,
+        "scale": 0.83,
+        "offsetX": -0.4,
+        "offsetY": 0.24,
         "wrap": 0,
         "opacity": 1,
         "blend": "normal"
@@ -504,9 +504,9 @@
           "cornerRadius": 13,
           "artwork": {
             "imageID": "repo-art-507f8345a3107ec586e7e927f7f2529a7ae641fb2d621425f27500b5bb0c0842",
-            "scale": 0.5,
-            "offsetX": 0,
-            "offsetY": 0,
+            "scale": 0.83,
+            "offsetX": -0.4,
+            "offsetY": 0.24,
             "wrap": 0,
             "opacity": 1,
             "blend": "normal"
@@ -791,9 +791,9 @@
           "cornerRadius": 13,
           "artwork": {
             "imageID": "repo-art-507f8345a3107ec586e7e927f7f2529a7ae641fb2d621425f27500b5bb0c0842",
-            "scale": 0.5,
-            "offsetX": 0,
-            "offsetY": 0,
+            "scale": 0.83,
+            "offsetX": -0.4,
+            "offsetY": 0.24,
             "wrap": 0,
             "opacity": 1,
             "blend": "normal"

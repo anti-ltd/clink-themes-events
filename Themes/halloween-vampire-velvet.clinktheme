@@ -217,9 +217,9 @@
       "cornerRadius": 5,
       "artwork": {
         "imageID": "repo-art-5392710309f9d36d2313ef24b555a2ca331b2346b1cf5e291b7168ac84f943eb",
-        "scale": 0.5,
-        "offsetX": 0,
-        "offsetY": 0,
+        "scale": 0.78,
+        "offsetX": 0.42,
+        "offsetY": -0.12,
         "wrap": 0,
         "opacity": 1,
         "blend": "normal"
@@ -504,9 +504,9 @@
           "cornerRadius": 5,
           "artwork": {
             "imageID": "repo-art-5392710309f9d36d2313ef24b555a2ca331b2346b1cf5e291b7168ac84f943eb",
-            "scale": 0.5,
-            "offsetX": 0,
-            "offsetY": 0,
+            "scale": 0.78,
+            "offsetX": 0.42,
+            "offsetY": -0.12,
             "wrap": 0,
             "opacity": 1,
             "blend": "normal"
@@ -791,9 +791,9 @@
           "cornerRadius": 5,
           "artwork": {
             "imageID": "repo-art-5392710309f9d36d2313ef24b555a2ca331b2346b1cf5e291b7168ac84f943eb",
-            "scale": 0.5,
-            "offsetX": 0,
-            "offsetY": 0,
+            "scale": 0.78,
+            "offsetX": 0.42,
+            "offsetY": -0.12,
             "wrap": 0,
             "opacity": 1,
             "blend": "normal"

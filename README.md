@@ -37,3 +37,5 @@ Rendered by the Android keyboard. Each file contains both appearances.
 No release has been published.
 
 Each pair includes an original illustrated spacebar, carried in the theme through Canvas: pumpkin, potion, ghost, jeweled bat, candy and lunar moth. The transparent artwork is in `Artwork/`; `Artwork/generation.json` records the image-generation prompts.
+
+Each illustration has its own oversized, edge-cropped placement in `palettes.json` under `artworkPlacement`. The potion, ghost and moth are angled in the PNG itself, so both platforms and exported themes keep the same composition without needing a separate rotation setting. Preserve natural proportions: intentional clipping at the keycap edges is part of the design, rather than fitting the whole silhouette inside the key.

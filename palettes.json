@@ -35,6 +35,11 @@
         "secondaryFill": "#334532",
         "secondaryText": "#D0E8A6",
         "backgroundEnd": "#342018"
+      },
+      "artworkPlacement": {
+        "scale": 0.72,
+        "offsetX": -0.43,
+        "offsetY": 0.01
       }
     },
     {
@@ -72,6 +77,11 @@
         "secondaryFill": "#6C467C",
         "secondaryText": "#F9E5FF",
         "backgroundEnd": "#241635"
+      },
+      "artworkPlacement": {
+        "scale": 0.76,
+        "offsetX": 0.38,
+        "offsetY": -0.02
       }
     },
     {
@@ -109,6 +119,11 @@
         "secondaryFill": "#3B4661",
         "secondaryText": "#E0E8FF",
         "backgroundEnd": "#1C3042"
+      },
+      "artworkPlacement": {
+        "scale": 0.78,
+        "offsetX": -0.44,
+        "offsetY": 0.19
       }
     },
     {
@@ -146,6 +161,11 @@
         "secondaryFill": "#3D3440",
         "secondaryText": "#E9CBD9",
         "backgroundEnd": "#32121F"
+      },
+      "artworkPlacement": {
+        "scale": 0.78,
+        "offsetX": 0.42,
+        "offsetY": -0.12
       }
     },
     {
@@ -183,6 +203,11 @@
         "secondaryFill": "#385A53",
         "secondaryText": "#D9F9DE",
         "backgroundEnd": "#391C3D"
+      },
+      "artworkPlacement": {
+        "scale": 0.83,
+        "offsetX": -0.4,
+        "offsetY": 0.24
       }
     },
     {
@@ -220,6 +245,11 @@
         "secondaryFill": "#584B31",
         "secondaryText": "#F9E8BC",
         "backgroundEnd": "#1D3629"
+      },
+      "artworkPlacement": {
+        "scale": 0.8,
+        "offsetX": 0.39,
+        "offsetY": 0.08
       }
     }
   ]

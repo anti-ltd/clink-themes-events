@@ -53,7 +53,8 @@ def appearance(record, dark):
             colorMode='custom',customColor=p['returnFill'],secondaryColorMode='custom',customColor2=p['secondaryFill']))
     art=(ROOT/'Artwork'/f'{record["id"].removeprefix("halloween-")}.png').read_bytes()
     art_id='repo-art-'+hashlib.sha256(art).hexdigest()
-    theme['groupPaint']['space'].update(artwork=dict(imageID=art_id, scale=0.5, offsetX=0, offsetY=0, wrap=0, opacity=1, blend='normal'), hideGlyph=True)
+    placement = record['artworkPlacement']
+    theme['groupPaint']['space'].update(artwork=dict(imageID=art_id, **placement, wrap=0, opacity=1, blend='normal'), hideGlyph=True)
     return theme
 
 
