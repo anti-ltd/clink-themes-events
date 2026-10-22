@@ -2,6 +2,8 @@
 """Generate the Events collection from editable, paired art-direction palettes."""
 from __future__ import annotations
 import argparse
+import base64
+import hashlib
 import json
 import re
 from pathlib import Path
@@ -49,6 +51,9 @@ def appearance(record, dark):
         backgroundEffect=dict(style=style['effect'],speed=0.35,intensity=0.26 if dark else 0.12,
             density=0.22,scale=0.7,reactive=True,reactionStrength=0.35,blend='glow',
             colorMode='custom',customColor=p['returnFill'],secondaryColorMode='custom',customColor2=p['secondaryFill']))
+    art=(ROOT/'Artwork'/f'{record["id"].removeprefix("halloween-")}.png').read_bytes()
+    art_id='repo-art-'+hashlib.sha256(art).hexdigest()
+    theme['groupPaint']['space'].update(artwork=dict(imageID=art_id, scale=0.5, offsetX=0, offsetY=0, wrap=0, opacity=1, blend='normal'), hideGlyph=True)
     return theme
 
 
@@ -60,7 +65,9 @@ def documents():
     result={}
     for r in records:
         light,dark=appearance(r,False),appearance(r,True)
-        result[ROOT/'Themes'/f'{r["id"]}.clinktheme']=json.dumps({**light,'pairedVariants':[light,dark]},ensure_ascii=False,indent=2)+'\n'
+        art=(ROOT/'Artwork'/f'{r["id"].removeprefix("halloween-")}.png').read_bytes()
+        images={light['groupPaint']['space']['artwork']['imageID']:base64.b64encode(art).decode()}
+        result[ROOT/'Themes'/f'{r["id"]}.clinktheme']=json.dumps({**light,'pairedVariants':[light,dark],'keyArtworkImages':images},ensure_ascii=False,indent=2)+'\n'
     result[ROOT/'catalog.json']=json.dumps(dict(version=1,name='Events',themes=[f'Themes/{i}.clinktheme' for i in ids]),indent=2)+'\n'
     return result
 

@@ -1,0 +1,36 @@
+{
+  "method": "Built-in image_gen",
+  "assets": [
+    {
+      "id": "jack-o-lantern",
+      "prompt": "Use case: stylized-concept. Asset type: transparent illustration printed on a mobile keyboard spacebar. Create a beautifully carved amber pumpkin with a warm glowing grin, curled sage stem and tiny bronze leaves. Exquisite hand-painted enamel and collectible artisan keycap aesthetic; tactile materials, careful crisp silhouette, elegant magical Halloween mood. One isolated compact horizontal emblem, front-facing, centered and filling most of a wide 3:2 canvas, plain genuinely transparent background. Must read beautifully at 80 pixels wide and 32 pixels high; bold simplified silhouette, restrained fine detail. No letters, words, border, keycap, UI, cast shadow outside the object, background, or watermark. Balanced contrast suitable on both light and dark keycaps.",
+      "file": "jack-o-lantern.png"
+    },
+    {
+      "id": "witching-hour",
+      "prompt": "Use case: stylized-concept. Asset type: transparent illustration printed on a mobile keyboard spacebar. Create a faceted amethyst potion bottle with a silver crescent stopper, luminous lime potion and two tiny violet stars. Exquisite hand-painted enamel and collectible artisan keycap aesthetic; tactile materials, careful crisp silhouette, elegant magical Halloween mood. One isolated compact horizontal emblem, front-facing, centered and filling most of a wide 3:2 canvas, plain genuinely transparent background. Must read beautifully at 80 pixels wide and 32 pixels high; bold simplified silhouette, restrained fine detail. No letters, words, border, keycap, UI, cast shadow outside the object, background, or watermark. Balanced contrast suitable on both light and dark keycaps.",
+      "file": "witching-hour.png"
+    },
+    {
+      "id": "ghostlight",
+      "prompt": "Use case: stylized-concept. Asset type: transparent illustration printed on a mobile keyboard spacebar. Create a graceful little translucent pearly ghost with flowing cyan edges, two small dark eyes, and a soft blue will-o-wisp. Exquisite hand-painted enamel and collectible artisan keycap aesthetic; tactile materials, careful crisp silhouette, elegant magical Halloween mood. One isolated compact horizontal emblem, front-facing, centered and filling most of a wide 3:2 canvas, plain genuinely transparent background. Must read beautifully at 80 pixels wide and 32 pixels high; bold simplified silhouette, restrained fine detail. No letters, words, border, keycap, UI, cast shadow outside the object, background, or watermark. Balanced contrast suitable on both light and dark keycaps.",
+      "file": "ghostlight.png"
+    },
+    {
+      "id": "vampire-velvet",
+      "prompt": "Use case: stylized-concept. Asset type: transparent illustration printed on a mobile keyboard spacebar. Create an elegant heraldic bat with dark burgundy velvet wings, antique gold edges and a ruby jewel at its heart. Exquisite hand-painted enamel and collectible artisan keycap aesthetic; tactile materials, careful crisp silhouette, elegant magical Halloween mood. One isolated compact horizontal emblem, front-facing, centered and filling most of a wide 3:2 canvas, plain genuinely transparent background. Must read beautifully at 80 pixels wide and 32 pixels high; bold simplified silhouette, restrained fine detail. No letters, words, border, keycap, UI, cast shadow outside the object, background, or watermark. Balanced contrast suitable on both light and dark keycaps.",
+      "file": "vampire-velvet.png"
+    },
+    {
+      "id": "candy-coven",
+      "prompt": "Use case: stylized-concept. Asset type: transparent illustration printed on a mobile keyboard spacebar. Create a luxurious little bundle of wrapped tangerine and lilac candies with a curled mint ribbon and small sugar stars. Exquisite hand-painted enamel and collectible artisan keycap aesthetic; tactile materials, careful crisp silhouette, elegant magical Halloween mood. One isolated compact horizontal emblem, front-facing, centered and filling most of a wide 3:2 canvas, plain genuinely transparent background. Must read beautifully at 80 pixels wide and 32 pixels high; bold simplified silhouette, restrained fine detail. No letters, words, border, keycap, UI, cast shadow outside the object, background, or watermark. Balanced contrast suitable on both light and dark keycaps.",
+      "file": "candy-coven.png"
+    },
+    {
+      "id": "haunted-conservatory",
+      "prompt": "Use case: stylized-concept. Asset type: transparent illustration printed on a mobile keyboard spacebar. Create a jade lunar moth with finely patterned green wings, warm brass details and two small botanical fronds. Exquisite hand-painted enamel and collectible artisan keycap aesthetic; tactile materials, careful crisp silhouette, elegant magical Halloween mood. One isolated compact horizontal emblem, front-facing, centered and filling most of a wide 3:2 canvas, plain genuinely transparent background. Must read beautifully at 80 pixels wide and 32 pixels high; bold simplified silhouette, restrained fine detail. No letters, words, border, keycap, UI, cast shadow outside the object, background, or watermark. Balanced contrast suitable on both light and dark keycaps.",
+      "file": "haunted-conservatory.png"
+    }
+  ],
+  "framingPrompt": "Edit this transparent emblem for a shallow keyboard spacebar. Preserve the exact illustration, colours, materials and alpha. Change only composition: scale the entire existing emblem down uniformly to occupy at most the CENTRAL 50% of the image height and at most 65% of its width. Leave a large completely transparent empty margin above and below it. Use a 3:2 landscape canvas. No cropping, no extra objects, no added shadows, no background, no lettering. The object must appear smaller inside the canvas so its full silhouette fits in a very wide short key."
+}

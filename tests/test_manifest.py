@@ -1,4 +1,5 @@
 import hashlib
+import base64
 import json
 import os
 from pathlib import Path
@@ -15,7 +16,7 @@ class ManifestTests(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
         source = Path(__file__).resolve().parents[1]
-        for folder in ['Themes', 'tools']:
+        for folder in ['Themes', 'tools', 'Artwork']:
             shutil.copytree(source / folder, self.root / folder,
                             ignore=shutil.ignore_patterns('._*', '__pycache__'))
         for name in ['palettes.json', 'catalog.json']:
@@ -48,6 +49,12 @@ class ManifestTests(unittest.TestCase):
             self.assertEqual(entry['version'], manifest['version'])
             self.assertEqual(entry['asset']['url'],
                              f'https://github.com/example/themes/releases/download/{manifest["version"]}/{entry["id"]}.clinktheme')
+            images = theme['keyArtworkImages']
+            self.assertEqual(len(images), 1)
+            for image_id, encoded in images.items():
+                image = base64.b64decode(encoded, validate=True)
+                self.assertEqual(image_id, 'repo-art-' + hashlib.sha256(image).hexdigest())
+                self.assertTrue(image.startswith(b'\x89PNG\r\n\x1a\n'))
             variants = theme['pairedVariants']
             self.assertEqual([variant['isDark'] for variant in variants], [False, True])
             for variant in variants:
@@ -55,6 +62,7 @@ class ManifestTests(unittest.TestCase):
                 self.assertNotIn('pairedVariants', variant)
                 self.assertEqual(variant['source'], 'eventsRepository')
                 self.assertFalse(variant['liquidGlass'])
+                self.assertIn(variant['groupPaint']['space']['artwork']['imageID'], images)
 
     def test_repeat_builds_ignore_appledouble(self):
         first = self.build()

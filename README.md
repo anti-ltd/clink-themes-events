@@ -35,3 +35,5 @@ Rendered by the Android keyboard. Each file contains both appearances.
 | <a href="Themes/halloween-haunted-conservatory.clinktheme"><strong>Haunted Conservatory Light</strong></a><br><a href="README-assets/previews/halloween-haunted-conservatory-light.png"><img src="README-assets/previews/halloween-haunted-conservatory-light.png" width="400" alt="Haunted Conservatory light keyboard preview"></a> | <a href="Themes/halloween-haunted-conservatory.clinktheme"><strong>Haunted Conservatory Dark</strong></a><br><a href="README-assets/previews/halloween-haunted-conservatory-dark.png"><img src="README-assets/previews/halloween-haunted-conservatory-dark.png" width="400" alt="Haunted Conservatory dark keyboard preview"></a> |
 
 No release has been published.
+
+Each pair includes an original illustrated spacebar, carried in the theme through Canvas: pumpkin, potion, ghost, jeweled bat, candy and lunar moth. The transparent artwork is in `Artwork/`; `Artwork/generation.json` records the image-generation prompts.
